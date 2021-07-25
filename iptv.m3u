@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
 
+#EXTM3U Link kênh được sưu tầm từ nhiều nguồn khác nhau, mình chỉ lấy về làm lại cho phù hợp với sử dụng cá nhân! cảm ơn các bạn đã share link
 
 
 
@@ -810,6 +812,89 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-id="VTV5 TÂY NAM BỘ"group-title="VTV test" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" group-title="VTV test" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+
+#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài
+https://rlink.vn/beartv-sctv1
+#EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png", SCTV2 HD - AMC
+https://rlink.vn/beartv-sctv2
+#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png", SCTV3 HD - See TV
+https://rlink.vn/beartv-sctv3
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV 4 HD - Giải Trí
+https://rlink.vn/beartv-sctv4
+#EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
+https://rlink.vn/beartv-sctv6
+#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png", SCTV7 HD - SHOW
+https://rlink.vn/beartv-sctv7
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", SCTV8 HD - VITV
+https://rlink.vn/beartv-sctv8
+#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 - Phim TVB
+https://rlink.vn/beartv-sctv9
+#EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 HD - TV STAR
+https://rlink.vn/beartv-sctv11
+#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", SCTV12 HD - Du Lịch
+https://rlink.vn/beartv-sctv12
+#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png", SCTV13 HD - Lady TV
+https://rlink.vn/beartv-sctv13
+#EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
+https://rlink.vn/beartv-sctv16
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18 HD - Kênh 18
+https://rlink.vn/beartv-sctv18
+#EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png", SCTV19 HD - Channel T
+https://rlink.vn/beartv-sctv19
+#EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20 HD - Ca Nhạc
+https://rlink.vn/beartv-sctv20
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png", SCTV HD Phim Tổng Hợp
+https://rlink.vn/beartv-sctvth
+
+#EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-id="sbshd" group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/jW3VyCd/SBS-BEARTV.png",SBS HD
+http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+#https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/3BWV5Z2/SBS-STAR-BEARTV.jpg",SBS STAR
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/JR9KTnS/SBS-Plus-BEARTV.png", SBS PLUS 
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/yPj1Mv3/KBS1-BEARTV.png", KBS 1
+http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/PCT315x/KBS2-BEARTV.png", KBS 2
+http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/wcmbRGz/t-VN-BEARTV.png", tVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/xzkT6XW/Mnet-BEARTV.png", Mnet
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="NHẬT BẢN", TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="NHẬT BẢN", Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="NHẬT BẢN", TBS TV
+http://203.162.235.41:16907
+
+#EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png",CCTV-1
+http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="cctv5" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png",CCTV-5
+http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png",CCTV-5+
+http://hdtv.lzu6.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="hunan" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/fNjFPVZ/Hunan-TV-BEARTV.png", HỒ NAM TV
+http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgj4rJW/Viu-TV-BEARTV.png" group-title="TRUNG QUỐC",ViuTV
+#http://61.238.6.49:8000/bysid/99
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -856,18 +941,3 @@ http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/xJ1h54B/VOV-SK.png",VOV FM 89
 #EXTVLCOPT:http-user-agent=vietngatv
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
