@@ -130,14 +130,13 @@ https://vtc130121.cdn.vnns.io/VTC4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png",VTC9 | 1080P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/mODLJyK.png",VTC9 | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png",VTC9 | 1080P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/bWdBZwG.png",VTC6 | 1080P
