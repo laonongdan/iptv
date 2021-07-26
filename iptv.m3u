@@ -63,6 +63,37 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 
 
+----các kênh VTV CAB----
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://static.megavie.live/media/vie-giaitri.jpg", VTVCab1 - Vie Giải Trí
+http://203.162.123.178:8080/vtvcab1/index.m3u8
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab3hd" tvg-logo="https://static.megavie.live/media/vtvcab3hd.jpg", VTVcab3 - Thể Thao TV
+http://203.162.123.178:8080/vtvcab3/index.m3u8
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="https://static.megavie.live/media/vtvcab5hd.jpg", VTVCab5 - E Channel
+http://203.162.123.178:8080/vtvcab5/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports
+http://rglink.ml/vtvgo2.m3u8?id=196
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="https://static.megavie.live/media/phimviet.jpg", VTVCab2 - Phim Việt
+http://203.162.123.178:8080/vtvcab2/index.m3u8
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab10hd" tvg-logo="https://static.megavie.live/media/vie-dramas.jpg", VTVcab 10
+http://203.162.123.178:8080/vtvcab7/index.m3u8
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab16hd" tvg-logo="https://static.megavie.live/media/vtvcab16hd.jpg", VTVcab16 - Bóng Đá TV
+http://203.162.123.178:8080/vtvcab16/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/27.png", VTVcab 17 - Yeah1TV
+http://rglink.ml/vtvgo2.m3u8?id=195
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas
+http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
+
+
+
+
+
+
+
+
+
+
+
+
 ----TRUYỀN HÌNH CƠ BẢN - THIẾT YẾU----
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="CƠ BẢN" tvg-logo="https://i.imgur.com/G154n6j.png",Quốc Hội Việt Nam HD
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -88,35 +119,15 @@ https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 
 
 
-
-----các kênh VTV CAB----
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://static.megavie.live/media/vie-giaitri.jpg", VTVCab1 - Vie Giải Trí
-http://203.162.123.178:8080/vtvcab1/index.m3u8
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="https://static.megavie.live/media/phimviet.jpg", VTVCab2 - Phim Việt
-http://203.162.123.178:8080/vtvcab2/index.m3u8
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab3hd" tvg-logo="https://static.megavie.live/media/vtvcab3hd.jpg", VTVcab3 - Thể Thao TV
-http://203.162.123.178:8080/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="https://static.megavie.live/media/vtvcab5hd.jpg", VTVCab5 - E Channel
-http://203.162.123.178:8080/vtvcab5/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports
-http://rglink.ml/vtvgo2.m3u8?id=196
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab10hd" tvg-logo="https://static.megavie.live/media/vie-dramas.jpg", VTVcab 10
-http://203.162.123.178:8080/vtvcab7/index.m3u8
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab16hd" tvg-logo="https://static.megavie.live/media/vtvcab16hd.jpg", VTVcab16 - Bóng Đá TV
-http://203.162.123.178:8080/vtvcab16/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/27.png", VTVcab 17 - Yeah1TV
-http://rglink.ml/vtvgo2.m3u8?id=195
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas
-http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
-
-
-
-
-
-
-
-
 ----CÁC KÊNH VTC----
+
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/mODLJyK.png",VTC9 | 576P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png",VTC9 | 1080P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/ERFSIOF.png",VTC1 | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
@@ -137,17 +148,9 @@ https://vtc130121.cdn.vnns.io/VTC4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/mODLJyK.png",VTC9 | 576P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png",VTC9 | 1080P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
-
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/bWdBZwG.png",VTC6 | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vtc130121.cdn.vnns.io/VTC6/playlist.m3u8
-
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/RgNZzYM/VTC8-HD.png",VTC8 | 1080P
