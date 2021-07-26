@@ -808,8 +808,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 ----khu vực thử nghiệm link (chưa ổn định)----
 
 
-#EXTINF:0 tvg-id="VTV5 TÂY NAM BỘ"group-title="VTV test" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",test cab
-http://27.67.64.68:18080//18_0.m3u8?AdaptiveType=HLS&SessionID=aa60089a-e844-4700-a981-998a9d2a3e88&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="TV360"group-title="TV360" tvg-logo="http://imageidc1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_640_360.png",SCTV 6 (FIM 360)
+http://27.67.64.74:18080//297_1.m3u8?AdaptiveType=HLS&SessionID=49b0eb30-83a2-40ba-b3a5-c4f69167eac3&MinBw=0&MaxBw=20000000
+
+
+
+
 #EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" group-title="VTV test" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,test cab
 http://27.67.64.82:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=b2851f7b-80b5-4ace-928c-461d5b1ea773&MinBw=0&MaxBw=20000000
 
