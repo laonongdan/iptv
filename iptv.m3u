@@ -814,12 +814,31 @@ http://27.67.64.74:18080//297_1.m3u8?AdaptiveType=HLS&SessionID=49b0eb30-83a2-40
 http://27.67.64.82:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=b2851f7b-80b5-4ace-928c-461d5b1ea773&MinBw=0&MaxBw=20000000
 
 
+
+
 #EXTINF:0 tvg-id="VTV5 TÂY NAM BỘ"group-title="VTV test" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
-https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+https://vtvnews-livevtv.vtvdigital.vn/ba36aa1336c4dac6483513bdfd56c782/1627308751826/vtv5tnb/vtv5tnb@480p.m3u8
 #EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" group-title="VTV test" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
 ----các kênh SCTV (chưa ổn định)----
+
+
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://static.megavie.live/media/vie-giaitri.jpg", VTVCab1 HD - Vie Giải Trí | Sever 2
+http://203.162.123.178:8080/vtvcab1/index.m3u8
+
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd" tvg-logo="https://static.megavie.live/media/phimviet.jpg", VTVCab2 - Phim Việt | Sever 2
+http://203.162.123.178:8080/vtvcab2/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd" tvg-logo="https://static.megavie.live/media/vtvcab3hd.jpg", VTVcab3 HD - Thể Thao TV
+http://203.162.123.178:8080/vtvcab3/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab5hd" tvg-logo="https://static.megavie.live/media/vtvcab5hd.jpg", VTVCab5 - E Channel | Sever 2
+http://203.162.123.178:8080/vtvcab5/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab10hd" tvg-logo="https://static.megavie.live/media/vie-dramas.jpg", VTVcab 10 HD | Sever 2
+http://203.162.123.178:8080/vtvcab7/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd" tvg-logo="https://static.megavie.live/media/vtvcab16hd.jpg", VTVcab16 HD - Bóng Đá TV
+http://203.162.123.178:8080/vtvcab16/index.m3u8
+
+
 
 
 
