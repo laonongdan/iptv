@@ -888,7 +888,23 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 
 
 
+----CA NHẠC - CHƯƠNG TRÌNH NGHỆ THUẬT LẠNG SƠN----
 
+#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_tuoi_dep_16142725072021.jpg",Xứ Lạng tươi đẹp
+#EXTVLCOPT:http-user-agent=vietngatv
+http://cdn.langsontv.vn/upload/video/file/xu_lang_tuoi_dep_16142825072021.mp4
+
+#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/bai_ca_ngay_gia_dinh_viet_nam_10033602072021.jpg",Bài ca ngày gia đình Việt Nam
+#EXTVLCOPT:http-user-agent=vietngatv
+http://cdn.langsontv.vn/upload/video/file/bai_ca_ngay_gia_dinh_viet_nam_10033602072021.mp4
+
+#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ca_nhac_cau_then_quyen_ru_goi_moi_09141222062021.jpg",Câu then quyến rũ gọi mời
+#EXTVLCOPT:http-user-agent=vietngatv
+http://cdn.langsontv.vn/upload/video/file/ca_nhac_cau_then_quyen_ru_goi_moi_09141322062021.mp4
+
+#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/nhung_anh_den_nhung_vi_sao_uoc_mo_11084419062021.jpg",Những ánh đèn những vì sao ước mơ
+#EXTVLCOPT:http-user-agent=vietngatv
+http://cdn.langsontv.vn/upload/video/file/nhung_anh_den_nhung_vi_sao_uoc_mo_11084519062021.mp4
 
 
 
