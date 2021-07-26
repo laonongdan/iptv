@@ -811,7 +811,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 #EXTINF:0 tvg-id="VTV5 TÂY NAM BỘ"group-title="VTV test" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",test cab
 http://27.67.64.68:18080//18_0.m3u8?AdaptiveType=HLS&SessionID=aa60089a-e844-4700-a981-998a9d2a3e88&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" group-title="VTV test" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,test cab
-http://27.67.64.68:18080//18_0.m3u8
+http://27.67.64.82:18080//194_1.m3u8?AdaptiveType=HLS&SessionID=b2851f7b-80b5-4ace-928c-461d5b1ea773&MinBw=0&MaxBw=20000000
 
 
 #EXTINF:0 tvg-id="VTV5 TÂY NAM BỘ"group-title="VTV test" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
