@@ -878,9 +878,11 @@ http://203.162.235.41:16905
 http://203.162.235.41:16907
 
 ----TRUYỀN HÌNH TRUNG QUỐC----
-#EXTINF:-1 group-title="TRUNG QUỐC"  tvg-logo="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f4782d1d26381f309e198aaf913a2b35/ca1349540923dd543c19b84ddf09b3de9c8248a8.jpg",Trùng Khánh TV
+
+
+#EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f4782d1d26381f309e198aaf913a2b35/ca1349540923dd543c19b84ddf09b3de9c8248a8.jpg",Trùng Khánh TV
 http://223.82.250.72/live/chongqingstv/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC  tvg-logo="https://img.meituan.net/csc/7e5d42baaf4ed1d945bab3035a9edbee14673.jpg",Tây An
+#EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo=https://img.meituan.net/csc/7e5d42baaf4ed1d945bab3035a9edbee14673.jpg",Tây An
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png",CCTV-1
 http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
