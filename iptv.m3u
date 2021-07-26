@@ -34,12 +34,12 @@ https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="https://i.ibb.co/M2n7wz0/156.png",Lạng Sơn HD
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="https://i.ibb.co/M2n7wz0/156.png",Lạng Sơn HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn SD
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
 
@@ -891,215 +891,215 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 ----CA NHẠC - CHƯƠNG TRÌNH NGHỆ THUẬT LẠNG SƠN----
 
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngay_hoi_non_song_2_09023325052021.jpg",Ngày hội non sông 1
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngay_hoi_non_song_2_09023325052021.jpg",Ngày hội non sông 1
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/ngay_hoi_non_song_1_10215324052021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngay_hoi_non_song_2_09023325052021.jpg",Ngày hội non sông 2
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngay_hoi_non_song_2_09023325052021.jpg",Ngày hội non sông 2
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/ngay_hoi_non_song_2_09023425052021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_tuoi_dep_16142725072021.jpg",Xứ Lạng tươi đẹp
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_tuoi_dep_16142725072021.jpg",Xứ Lạng tươi đẹp
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/xu_lang_tuoi_dep_16142825072021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/bai_ca_ngay_gia_dinh_viet_nam_10033602072021.jpg",Bài ca ngày gia đình Việt Nam
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/bai_ca_ngay_gia_dinh_viet_nam_10033602072021.jpg",Bài ca ngày gia đình Việt Nam
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/bai_ca_ngay_gia_dinh_viet_nam_10033602072021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ca_nhac_cau_then_quyen_ru_goi_moi_09141222062021.jpg",Câu then quyến rũ gọi mời
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ca_nhac_cau_then_quyen_ru_goi_moi_09141222062021.jpg",Câu then quyến rũ gọi mời
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/ca_nhac_cau_then_quyen_ru_goi_moi_09141322062021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/nhung_anh_den_nhung_vi_sao_uoc_mo_11084419062021.jpg",Những ánh đèn những vì sao ước mơ
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/nhung_anh_den_nhung_vi_sao_uoc_mo_11084419062021.jpg",Những ánh đèn những vì sao ước mơ
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/nhung_anh_den_nhung_vi_sao_uoc_mo_11084519062021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ve_lang_son_voi_em_10260821042021.jpg",Về Lạng Sơn với em
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ve_lang_son_voi_em_10260821042021.jpg",Về Lạng Sơn với em
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/ve_lang_son_voi_em_10260821042021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngan_nam_vang_mai_loi_anh_10473026032021.jpg",Ngàn năm vang mãi lời anh
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngan_nam_vang_mai_loi_anh_10473026032021.jpg",Ngàn năm vang mãi lời anh
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/ngan_nam_vang_mai_loi_anh_10473126032021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_hat_tinh_que_10183211032021.jpg",Khúc hát tình quê
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_hat_tinh_que_10183211032021.jpg",Khúc hát tình quê
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/khuc_hat_tinh_que_10183411032021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/gioi_thieu_dieu_nhay_shuffie_dance_11020825022021.jpg",Giới thiệu điệu nhảy Shuffie Dance
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/gioi_thieu_dieu_nhay_shuffie_dance_11020825022021.jpg",Giới thiệu điệu nhảy Shuffie Dance
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/gioi_thieu_dieu_nhay_shuffie_dance_11020825022021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_hat_ngay_xuan_11000025022021.jpg",Khúc hát ngày xuân
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_hat_ngay_xuan_11000025022021.jpg",Khúc hát ngày xuân
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/khuc_hat_ngay_xuan_11000025022021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/mua_xuan_xu_lang_10572725022021.jpg",Mùa xuân Xứ Lạng
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/mua_xuan_xu_lang_10572725022021.jpg",Mùa xuân Xứ Lạng
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/mua_xuan_xu_lang_10572825022021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/chao_xuan_2021_10560625022021.jpg",Chào xuân 2021
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/chao_xuan_2021_10560625022021.jpg",Chào xuân 2021
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/giai_dieu_yeu_thuong_10540925022021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_vao_xuan_10505925022021.jpg",Xứ Lạng vào xuân
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_vao_xuan_10505925022021.jpg",Xứ Lạng vào xuân
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/xu_lang_vao_xuan_10510025022021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/hanh_khuc_truong_thpt_bac_son_bai_ca_tu_hao_10472525022021.jpg",Bài ca tự hào
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/hanh_khuc_truong_thpt_bac_son_bai_ca_tu_hao_10472525022021.jpg",Bài ca tự hào
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/hanh_khuc_truong_thpt_bac_son_bai_ca_tu_hao_10472525022021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/hat_ve_que_huong_van_quan_10274231102020.jpg",Hát về quê hương Văn Quan
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/hat_ve_que_huong_van_quan_10274231102020.jpg",Hát về quê hương Văn Quan
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/hat_ve_que_huong_van_quan_10274231102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/huong_rung_bay_xa_10254531102020.jpg",Hương rừng bay xa
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/huong_rung_bay_xa_10254531102020.jpg",Hương rừng bay xa
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/huong_rung_bay_xa_10254631102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/vu_dieu_sac_mau_10225231102020.jpg",Vũ điệu sắc màu
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/vu_dieu_sac_mau_10225231102020.jpg",Vũ điệu sắc màu
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/vu_dieu_sac_mau_10225231102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_ca_nguoi_giao_vien_10192931102020.jpg",Khúc ca người giáo viên
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_ca_nguoi_giao_vien_10192931102020.jpg",Khúc ca người giáo viên
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/khuc_ca_nguoi_giao_vien_10193031102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/yeu_lang_son_que_em_10170131102020.jpg",Yêu Lạng Sơn quê em
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/yeu_lang_son_que_em_10170131102020.jpg",Yêu Lạng Sơn quê em
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/yeu_lang_son_que_em_10170131102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/bien_gioi_mua_xuan_20522809102020.jpg",Biên giới mùa xuân
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/bien_gioi_mua_xuan_20522809102020.jpg",Biên giới mùa xuân
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/bien_gioi_mua_xuan_20522809102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/giai_dieu_xu_lang_17193409102020.jpg",Giai điệu Xứ Lạng
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/giai_dieu_xu_lang_17193409102020.jpg",Giai điệu Xứ Lạng
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/giai_dieu_xu_lang_17193609102020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/chuyen_tinh_sli_then_10405003082020.jpg",Chuyện tình sli then
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/chuyen_tinh_sli_then_10405003082020.jpg",Chuyện tình sli then
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/chuyen_tinh_sli_then_10405003082020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/hat_mai_lan_dieu_dan_ca_10390103082020.jpg",Hát mãi làn điệu dân ca
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/hat_mai_lan_dieu_dan_ca_10390103082020.jpg",Hát mãi làn điệu dân ca
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/hat_mai_lan_dieu_dan_ca_10390103082020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/dieu_nhay_the_thao_10371603082020.jpg",Điệu nhảy thể thao
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/dieu_nhay_the_thao_10371603082020.jpg",Điệu nhảy thể thao
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/dieu_nhay_the_thao_10371603082020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/tieng_goi_kham_khac_09535214062020.jpg",Tiếng gọi Khảm Khắc
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/tieng_goi_kham_khac_09535214062020.jpg",Tiếng gọi Khảm Khắc
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/tieng_goi_kham_khac_09535214062020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/biet_on_anh_hoang_van_thu_09520314062020.jpg",Biết ơn anh Hoàng Văn Thụ
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/biet_on_anh_hoang_van_thu_09520314062020.jpg",Biết ơn anh Hoàng Văn Thụ
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/biet_on_anh_hoang_van_thu_09520314062020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_nen_tho_09503814062020.jpg",Xứ Lạng nên thơ
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/xu_lang_nen_tho_09503814062020.jpg",Xứ Lạng nên thơ
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/xu_lang_nen_tho_09503914062020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/binh_gia_que_noong_09483814062020.jpg",Bình Gia quê noọng
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/binh_gia_que_noong_09483814062020.jpg",Bình Gia quê noọng
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/binh_gia_que_noong_09483814062020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7678_ban_noong_ngay_xuan_09430418022020.jpg",Bản Noọng ngày xuân
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7678_ban_noong_ngay_xuan_09430418022020.jpg",Bản Noọng ngày xuân
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7678_ban_noong_ngay_xuan_09430418022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7438_de_dieu_then_mai_ngan_vang_15093218012020.jpg",Để điệu then mãi ngân vang
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7438_de_dieu_then_mai_ngan_vang_15093218012020.jpg",Để điệu then mãi ngân vang
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7438_de_dieu_then_mai_ngan_vang_15093218012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7437_loi_nhan_ngay_xuan_15081318012020.jpg",Lời nhắn ngày xuân
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7437_loi_nhan_ngay_xuan_15081318012020.jpg",Lời nhắn ngày xuân
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7437_loi_nhan_ngay_xuan_15081318012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7436_du_hoi_quynh_son_15070118012020.jpg",Du hội Quỳnh Sơn
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7436_du_hoi_quynh_son_15070118012020.jpg",Du hội Quỳnh Sơn
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7436_du_hoi_quynh_son_15070118012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7435_ngot_ngao_dieu_then_15055818012020.jpg",Ngọt ngào điệu then
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7435_ngot_ngao_dieu_then_15055818012020.jpg",Ngọt ngào điệu then
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7435_ngot_ngao_dieu_then_15055818012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7434_goi_xuan_15051118012020.jpg",Gọi xuân
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7434_goi_xuan_15051118012020.jpg",Gọi xuân
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7434_goi_xuan_15051118012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7433_dieu_tinh_que_em_15035218012020.jpg",Điệu tính quê em
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7433_dieu_tinh_que_em_15035218012020.jpg",Điệu tính quê em
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7433_dieu_tinh_que_em_15035318012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7432_thanh_pho_hoa_dao_15023818012020.jpg",Thành phố hoa đào
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7432_thanh_pho_hoa_dao_15023818012020.jpg",Thành phố hoa đào
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7432_thanh_pho_hoa_dao_15023818012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7431_tieng_tinh_que_huong_15014918012020.jpg",Tiếng tính quê hương
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7431_tieng_tinh_que_huong_15014918012020.jpg",Tiếng tính quê hương
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7431_tieng_tinh_que_huong_15014918012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7430_que_huong_doi_moi_14545318012020.jpg",Quê hương đổi mới
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7430_que_huong_doi_moi_14545318012020.jpg",Quê hương đổi mới
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7430_que_huong_doi_moi_14545318012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7429_mua_hoa_le_14530518012020.jpg",Mùa hoa Lê
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7429_mua_hoa_le_14530518012020.jpg",Mùa hoa Lê
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7429_mua_hoa_le_14530518012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7428_bac_son_goi_moi_14521018012020.jpg",Bắc Sơn gọi mời
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7428_bac_son_goi_moi_14521018012020.jpg",Bắc Sơn gọi mời
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7428_bac_son_goi_moi_14521018012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7426_ngay_xuan_di_hoi_10302318012020.jpg",Ngày xuân đi hội
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7426_ngay_xuan_di_hoi_10302318012020.jpg",Ngày xuân đi hội
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7426_ngay_xuan_di_hoi_10302318012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7425_giu_cho_em_mua_hoa_dao_10292518012020.jpg",Giữ cho em mua hoa đào
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7425_giu_cho_em_mua_hoa_dao_10292518012020.jpg",Giữ cho em mua hoa đào
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7425_giu_cho_em_mua_hoa_dao_10292518012020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/men_tinh_xu_lang_09182518052021.jpg",Men tình Xứ Lạng
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/men_tinh_xu_lang_09182518052021.jpg",Men tình Xứ Lạng
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/men_tinh_xu_lang_09182518052021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/con_trai_con_gai_ban_em_16231403052021.jpg",Con trai con gái bản em
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/con_trai_con_gai_ban_em_16231403052021.jpg",Con trai con gái bản em
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/con_trai_con_gai_ban_em_16231503052021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_hat_tinh_que_10183211032021.jpg",Khúc hát tình quê
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/khuc_hat_tinh_que_10183211032021.jpg",Khúc hát tình quê
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/khuc_hat_tinh_que_10183411032021.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7697_van_hoa_dan_toc_so_7_2020_15064019022020.jpg",Văn hóa dân tộc - Số 7/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7697_van_hoa_dan_toc_so_7_2020_15064019022020.jpg",Văn hóa dân tộc - Số 7/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7697_van_hoa_dan_toc_so_7_2020_15064019022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 6/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 6/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7696_van_hoa_dan_toc_so_6_2020_15054919022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 5/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 5/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7695_van_hoa_dan_toc_so_5_2020_15050619022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 4/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 4/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7694_van_hoa_dan_toc_so_4_2020_15042119022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 3/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 3/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7693_van_hoa_dan_toc_so_3_2020_15033419022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 2/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7696_van_hoa_dan_toc_so_6_2020_15054919022020.jpg",Văn hóa dân tộc - Số 2/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7692_van_hoa_dan_toc_so_2_2020_15023319022020.mp4
 
-#EXTINF:-1 group-title="Kênh LSTV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Văn hóa dân tộc - Số 1/2020
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Văn hóa dân tộc - Số 1/2020
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdn.langsontv.vn/upload/video/file/7691_van_hoa_dan_toc_so_1_2020_15005419022020.mp4
 
