@@ -392,10 +392,6 @@ https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/tXSwKFr/121.png",Bình Dương 11 - Top Shopping
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6JP1K2f/115.png",Bình Định SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
@@ -646,57 +642,6 @@ https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
 
 ----CÁC KÊNH TRUNG QUỐC----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7osksNP.png" group-title="TRUNG QUỐC", CCTV1 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/KObonBa.png", CCTV2 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/W8gYxHP.png", CCTV3 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/WynjUJJ.png", CCTV4 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/mi85Pwp.png", CCTV5 HD - Sports
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/Bm00i9c.png", CCTV5+ HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/eZoixqj.png", CCTV6 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/kPJflYr.png", CCTV7 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/whP5ki7.png", CCTV8 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/gUohTDL.png", CCTV9 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/wlCBFWu.png", CCTV10 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/ypxnN8F.png", CCTV11 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/uJljNoE.png", CCTV12 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/KLykwVR.png", CCTV13 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/GPAbEYY.png", CCTV14 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/TY3hIVK.png", CCTV15 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/EmjV348.png", CCTV17 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/kk8z1HS.png", Băc Kinh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://39.135.135.64:80/wh7f454c46tw396526073_-531758429/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
