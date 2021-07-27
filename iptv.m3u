@@ -342,6 +342,18 @@ https://vtvnews-livevtv.vtvdigital.vn/ba36aa1336c4dac6483513bdfd56c782/162730875
 #EXTINF:-1 tvg-id="VTV5 TÂY NGUYÊN" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
+#EXTINF:-1 tvg-id="hanoitv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 | 576P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="hanoitv2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 | 720P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7uqtQEM.png",Hanoicab2 - YouTV
+#EXTVLCOPT:http-user-agent=vietngatv
+https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
+
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wCP0U5u.png",An Giang
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8 
@@ -438,6 +450,14 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-
 #EXTVLCOPT:http-user-agent=vietngatv
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u8
 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/VAT1HAZ.png",Quảng Ninh 1 SD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/QVTb6Ed.png",Quảng Ninh 3 SD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BMug1gS.png",Đồng Tháp
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
@@ -465,18 +485,6 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/0q2BVky.png",Hà Nam SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="hanoitv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 | 576P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="hanoitv2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 | 720P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7uqtQEM.png",Hanoicab2 - YouTV
-#EXTVLCOPT:http-user-agent=vietngatv
-https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vAcHiv3.png",Hà Tĩnh HD
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -574,14 +582,6 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Xh6cZmD.png",Quảng Ngãi HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/VAT1HAZ.png",Quảng Ninh 1 SD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/QVTb6Ed.png",Quảng Ninh 3 SD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/zfkk610.jpg",Sóc Trăng
 #EXTVLCOPT:http-user-agent=vietngatv
