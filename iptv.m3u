@@ -1,6 +1,10 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 
-----Link kênh được sưu tầm từ nhiều nguồn khác nhau, mình chỉ lấy về làm lại cho phù hợp với sử dụng cá nhân! cảm ơn các bạn đã share link
+----Link kênh một phần nhỏ mình tự làm, còn phần lớn được sưu tầm từ nhiều nguồn khác nhau, mình chỉ lấy về làm lại cho phù hợp với sử dụng cá nhân! 
+
+Các kênh vtvcab,sctv,các kênh thuộc hệ thống in the box chuyển sang (HW) để xem
+Cảm ơn các bạn đã share link
+Cảm ơn các nguồn:coocaa,vthanhtivi,github,iptvcat,fptupd,247sport-ht,vnptrtp....
 
 
 
@@ -175,13 +179,12 @@ https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/gaLNvNp.png",VTC4 | 1080P
-https://vtc130121.cdn.vnns.io/VTC4/playlist.m3u8
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/f7wOKXv.png",VTC5 | 1080P
 https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/bWdBZwG.png",VTC6 | 1080P
-https://vtc130121.cdn.vnns.io/VTC6/playlist.m3u8
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/RgNZzYM/VTC8-HD.png",VTC8 | 1080P
@@ -492,7 +495,6 @@ https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N5tsSuk.png",Lào Cai SD
-https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WM7ddLv.png",Lâm Đồng SD
@@ -860,22 +862,11 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----khu vực thử nghiệm link (chưa ổn định)----
+
+
+
+
 
 
 
