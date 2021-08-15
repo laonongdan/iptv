@@ -9,17 +9,17 @@ Cảm ơn các nguồn:coocaa,vthanhtivi,github,iptvcat,fptupd,247sport-ht,vnptr
 
 
 ----CÁC KÊNH VTV - ĐÀI TRUYỀN HÌNH VN----
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv11.png?1544944437",VTV1 HD | Tin tức
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/GMmqm6N.png",VTV1 HD | Tin tức
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #https://oeiybifac.vtvgiaitri.vn/vtv01/vtv01@360p.m3u8
 #https://vtvgo-livewebs.vtvdigital.vn/abc82447ba6084e63afbfa308174c42e/1628358002223/vtv1/vtv1@high.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv2.png?1544944511",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/da1K9o7.png",VTV2 HD
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #https://oeiybifac.vtvgiaitri.vn/vtv02/vtv02@360p.m3u8
 https://vtvgo-livewebs.vtvdigital.vn/83c81826c8acae53446742caba43da8b/1628358093284/vtv2/vtv2@high.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv3.png?1544944542",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/ELPWNBq.png",VTV3 HD
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #https://oeiybifac.vtvgiaitri.vn/vtv01/vtv03@360p.m3u8
 #https://vtvgo-livewebs.vtvdigital.vn/343aef972e769502692810c201d705a3/1628358065430/vtv3/vtv3@high.m3u8
@@ -1225,4 +1225,8 @@ https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_THVL_RADIO.png", Vĩnh Long
 https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620201231220259", Yên Bái
+http://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620201231220259", hihihehe
 http://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
