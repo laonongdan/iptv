@@ -142,9 +142,9 @@ https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 
 ----CÁC KÊNH VTC----
 
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cPKCBIW.png",VTC9 | Let's Việt HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="http://i.imgur.com/0iyffnu.png",VTC9 | Let's Việt HD
 https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/mODLJyK.png",VTC9 | Let's Việt SD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="http://i.imgur.com/0iyffnu.png",VTC9 | Let's Việt SD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/dSoW7w2.png",VTC1 | Thời sự
@@ -162,37 +162,37 @@ https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/GO5kAPW.png",VTC5 | TV BLue
 https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/bWdBZwG.png",VTC6 | 1080P
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="http://i.imgur.com/TDi06aZ.png",VTC6 | 1080P
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/RgNZzYM/VTC8-HD.png",VTC8 | 1080P
+#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="http://i.imgur.com/G07Ik6m.png",VTC8 | 1080P
 https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/djfEjs5.png",VTC10 | 1080P
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/e0BjcKm.png",VTC10 | 1080P
 https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/EN4VyUF.png",VTC7 - TodayTV | 1080P
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="http://i.imgur.com/VQp1wJT.png",VTC7 - TodayTV | 1080P
 https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
 #https://e2.endpoint.cdn.sctvonline.vn/hls/todaytv/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7 - TodayTV | 576P
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="http://i.imgur.com/VQp1wJT.png",VTC7 - TodayTV | 576P
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/KRk5oac.png",VTC11 | 1080P
+#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="http://i.imgur.com/dwQ8nw3.png",VTC11 | 1080P
 https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://i.ibb.co/K79jFfc/VTC12-HD.png",VTC12 | 1080P
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="http://i.imgur.com/TIpDcXi.png",VTC12 | 1080P
 https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.imgur.com/uPyUdY1.png",VTC13 | 1080P
+#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="http://vtvplay.net/upload/thumb/live/1471408314-vtc13.jpg",VTC13 | 1080P
 https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.imgur.com/RjXbfNd.png",VTC14 | 1080P
+#EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="http://i.imgur.com/2CvKeug.png",VTC14 | 1080P
 https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.imgur.com/silGs1H.png",VTC16 | Nông nghiệp
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="http://i.imgur.com/kvF1Rum.png",VTC16 | Nông nghiệp
 https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/sQVM2hg/netviet.png",NETVIET
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mediapool-content.de/wp-content/uploads/2017/11/2015_09_03_NETVIET.jpg",NETVIET
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 
 
@@ -1228,5 +1228,5 @@ https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
 http://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620201231220259", hihiheheđâsdsad
+#EXTINF:-1 group-title="Radio" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620201231220259", hihihehe31231
 http://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
