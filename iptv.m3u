@@ -75,34 +75,34 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 ----các kênh VTV CAB----
 
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab1.jpg", VTVCab1 - Vie Giải Trí
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://static-stage.tv24.vn/channel/184/VTVcab1-Viegiaitri.jpg", VTVCab1 - Vie Giải Trí
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab4hd" tvg-logo="https://4.bp.blogspot.com/-znBLIJJGVdc/WZEkKFwYaoI/AAAAAAAAAhw/woPk1vcxKDww3gUSeF0_bwwcPXayvPX5wCEwYBhgL/s200/VTVcab4-Van-Hoa.jpg",Cab4 - Văn Hóa
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab4hd" tvg-logo="https://static-stage.tv24.vn/channel/228/vtvcab4-VH.jpg",Cab4 - Văn Hóa
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab5.jpg", VTVCab5 - E Channel
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png", VTVCab5 - E Channel
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab7.jpg", VTVcab 7 - Sức khỏe và Cuộc sống
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg", VTVcab 7 - Sức khỏe và Cuộc sống
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab8hd" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab8.jpg",VTVCab8 - Bibi TV
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab8hd" tvg-logo="https://static-stage.tv24.vn/channel/236/vtvcab8-BiBiTV.png",VTVCab8 - Bibi TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab2.jpg", VTVCab2 - Phim Việt
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="https://static-stage.tv24.vn/channel/180/vtvcab2-PhimViet.png", VTVCab2 - Phim Việt
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab10hd" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab10.jpg", VTVCab10 - Film TV
+#EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab10hd" tvg-logo="https://static-stage.tv24.vn/channel/232/vtvcab19-FilmTV.png", VTVCab10 - Film TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VTV Cab" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab6.jpg", VTVcab 6 - On Sports
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://static-stage.tv24.vn/channel/182/VTVcab6-HAYTV.png", VTVcab 6 - On Sports
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV Cab" tvg-logo="http://tv.vinaphone.com.vn/images/channel/VTVCab17.jpg", VTVcab 17 - Yeah1TV
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV Cab" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png", VTVcab 17 - Yeah1TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" tvg-logo="https://static-stage.tv24.vn/channel/175/VTVcab10-VieDramas.jpg", VTVcab 19 - Vie Dramas
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
 
 
@@ -278,9 +278,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
 
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SCTV1-0.png/revision/latest/scale-to-width-down/200?cb=20201119113949&path-prefix=vi", SCTV1 HD
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png", SCTV2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi", SCTV2
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png", SCTV3 HD
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
@@ -1228,5 +1228,5 @@ https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
 http://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620201231220259", hihihehehaha
+#EXTINF:-1 group-title="Radio" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620201231220259", hihihehe321
 http://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
