@@ -11,61 +11,58 @@ Cảm ơn các nguồn:coocaa,vthanhtivi,github,iptvcat,fptupd,247sport-ht,vnptr
 ----CÁC KÊNH VTV - ĐÀI TRUYỀN HÌNH VN----
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 | Tin tức
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv01/vtv01@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/abc82447ba6084e63afbfa308174c42e/1628358002223/vtv1/vtv1@high.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 | Khoa giáo
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv02/vtv02@360p.m3u8
-https://vtvgo-livewebs.vtvdigital.vn/83c81826c8acae53446742caba43da8b/1628358093284/vtv2/vtv2@high.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 | Giải trí
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv01/vtv03@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/343aef972e769502692810c201d705a3/1628358065430/vtv3/vtv3@high.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 | Hải ngoại
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv03/vtv04@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/db573ccc4f9e88b36bc202e7e9df4082/1628358121554/vtv4/vtv4@high.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 | Dân tộc
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv06/vtv05@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/aeca35292ec9ec49d059633638118036/1628358144735/vtv5/vtv5@high.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png",VTV6 | Giới trẻ
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv06/vtv06@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/522a2f248cffb569a9f13322efb0a243/1628358161216/vtv6/vtv6@high.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png",VTV7 | Nhi đồng
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv07/vtv07@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/0901ae4686049d6b39d73572069ef32f/1628358177174/vtv7/vtv7@high.m3u8
+#https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 
 
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="https://i.ibb.co/M2n7wz0/156.png",Lạng Sơn TV
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 | Cần thơ
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv08/vtv08@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/103416bf58a7b6eea3c608b5914b989d/1628358205029/vtv8/vtv8@high.m3u8
-
+#https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="antvhd" group-title="CƠ BẢN" tvg-logo="https://i.ibb.co/FBJKgSG/89.png",An Ninh TV
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9 | Hồ Chí Minh
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#https://oeiybifac.vtvgiaitri.vn/vtv09/vtv09@360p.m3u8
-#https://vtvgo-livewebs.vtvdigital.vn/7577471d7b003bf12933e819cdea8583/1628358220343/vtv9/vtv9@high.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
 
 
@@ -279,13 +276,13 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
 
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SCTV1-0.png/revision/latest/scale-to-width-down/200?cb=20201119113949&path-prefix=vi", SCTV 1
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SCTV1-0.png/revision/latest/scale-to-width-down/200?cb=20201119113949&path-prefix=vi", SCTV 1 - Hài
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi", SCTV 2
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest/scale-to-width-down/200?cb=20201202045951&path-prefix=vi", SCTV 3
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest/scale-to-width-down/200?cb=20201202045951&path-prefix=vi", SCTV 3 - See TV
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/SCTV4_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201127022644&path-prefix=vi", SCTV 4
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/SCTV4_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201127022644&path-prefix=vi", SCTV 4 - Giải Trí
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e7/SCTV5.png/revision/latest/scale-to-width-down/200?cb=20201127024501&path-prefix=vi", SCTV 5
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
@@ -295,7 +292,7 @@ http://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8|Referer=http://sct
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/SCTV8_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201126061716&path-prefix=vi", SCTV 8
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/SCTV9_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201126051232&path-prefix=vi", SCTV 9
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/SCTV9_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201126051232&path-prefix=vi", SCTV 9 - Phim TVB
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/SCTV10.png/revision/latest/scale-to-width-down/200?cb=20200929040024&path-prefix=vi", SCTV 10
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
@@ -309,7 +306,7 @@ http://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=http://sc
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/SCTV15_SSport2_logo_12-2020.png/revision/latest/scale-to-width-down/200?cb=20210127142513&path-prefix=vi", SCTV15
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/SCTV16_logo_2021.png/revision/latest/scale-to-width-down/200?cb=20210102042335&path-prefix=vi", SCTV 16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/SCTV16_logo_2021.png/revision/latest/scale-to-width-down/200?cb=20210102042335&path-prefix=vi", SCTV 16 - Phim Nước Ngoài
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/SCTV17_SSport_logo_12-2020.png/revision/latest/scale-to-width-down/200?cb=20210127142428&path-prefix=vi", SCTV 17
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn/
