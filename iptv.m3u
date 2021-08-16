@@ -116,15 +116,18 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sct
 ----TRUYỀN HÌNH CƠ BẢN - THIẾT YẾU----
 #EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="CƠ BẢN" tvg-logo="https://i.imgur.com/G154n6j.png",Quốc Hội Việt Nam
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8 
+#http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.m3u8
 
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="CƠ BẢN" tvg-logo="https://i.imgur.com/xtA4AlV.png",Quốc Phòng
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8 
+#https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="CƠ BẢN" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1386832030.m3u8 
 
 #EXTINF:-1 tvg-id="ttxvn" group-title="CƠ BẢN" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - Thông Tấn Xã VN
-http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8 
+http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vovtv" group-title="CƠ BẢN" tvg-logo="https://i.imgur.com/133s2Sc.png",VOV TV
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
@@ -146,27 +149,35 @@ https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/ERFSIOF.png",VTC1 | Thời sự
 https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.ibb.co/swTvccs/VTC2-HD.png",VTC2 | 1080P
 https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.ibb.co/kD6Vk1k/36.png",VTC3 | Thể thao
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/gaLNvNp.png",VTC4 | Yeah1 Family
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/f7wOKXv.png",VTC5 | TV BLue
 https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/bWdBZwG.png",VTC6 | 1080P
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/RgNZzYM/VTC8-HD.png",VTC8 | 1080P
 https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/djfEjs5.png",VTC10 | 1080P
 https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/EN4VyUF.png",VTC7 | Today TV HD
 https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
@@ -176,18 +187,22 @@ https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/KRk5oac.png",VTC11 | 1080P
 https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://i.ibb.co/K79jFfc/VTC12-HD.png",VTC12 | 1080P
 https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.imgur.com/uPyUdY1.png",VTC13 | 1080P
 https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.imgur.com/RjXbfNd.png",VTC14 | 1080P
 https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.imgur.com/silGs1H.png",VTC16 | Nông nghiệp
 https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
+#https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/sQVM2hg/netviet.png",NETVIET
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
@@ -227,6 +242,10 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/HBm1zn7/55.png", HTV CO.OP
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/HBm1zn7/55.png",HTV CO.OP
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
@@ -394,8 +413,9 @@ http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pJf7bLK/bacninhhd.png",Bắc Ninh
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8rtBmBB/camautvlogobyvovanloc.webp",Cà Mau
-https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/B2HPbYF/camautv.png",Cà Mau
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",Cao Bằng
 https://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
