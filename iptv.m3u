@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://gg.gg/epgmytv"
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 ----Link kênh một phần nhỏ mình tự làm, còn chủ yếu được sưu tầm từ nhiều nguồn khác nhau, mình chỉ lấy về làm lại cho phù hợp với sử dụng cá nhân! 
 
@@ -304,7 +305,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/kD7RcTD/SCTV1.png", SCTV 1 | Hài
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2tRsVsn/SCTV2.png", SCTV 2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2tRsVsn/SCTV2.png", SCTV 2 | NetStars
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.ibb.co/W3TvnsH/SCTV3.png", SCTV 3 | See TV
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
