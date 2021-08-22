@@ -76,22 +76,28 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 ----các kênh VTV CAB----
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://static-stage.tv24.vn/channel/184/VTVcab1-Viegiaitri.jpg", VTVCab1 | Vie Giải Trí
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
+http://gg.gg/cocacab1
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab4hd" tvg-logo="https://static-stage.tv24.vn/channel/228/vtvcab4-VH.jpg",VTVCab4 | Văn Hóa
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
+http://gg.gg/cocacab4
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png", VTVCab5 | E Channel
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
+http://gg.gg/cocacab5
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-logo="https://static-stage.tv24.vn/channel/182/VTVcab6-HAYTV.png", VTVcab6 | On Sports
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+http://gg.gg/cocacab6
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg", VTVcab7 | Sức khỏe và Cuộc sống
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
+http://gg.gg/cocacab7
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="https://static-stage.tv24.vn/channel/180/vtvcab2-PhimViet.png", VTVCab2 | Phim Việt
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+http://gg.gg/cocacab2
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab8hd" tvg-logo="https://static-stage.tv24.vn/channel/236/vtvcab8-BiBiTV.png",VTVCab8 | Bibi TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=http://sctvonline.vn/
