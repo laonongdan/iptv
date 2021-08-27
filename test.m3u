@@ -1,2 +1,12 @@
-# iptv
-iptv
+
+#EXTINF:-1 group-title="Cá Mực Hầm Mật" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/anhvu/022021/10/09/5143_05.jpg?rt=20210210095449",Tập 35
+http://103.27.236.37/phimle/camuchammat2tm35.mp4
+
+#EXTINF:-1 group-title="Cá Mực Hầm Mật" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/anhvu/022021/10/09/5143_05.jpg?rt=20210210095449",Tập 36
+http://103.27.236.37/phimle/camuchammat2tm36.mp4
+
+#EXTINF:-1 group-title="Cá Mực Hầm Mật" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/anhvu/022021/10/09/5143_05.jpg?rt=20210210095449",Tập 37
+http://103.27.236.37/phimle/camuchammat2tm37.mp4
+
+#EXTINF:-1 group-title="Cá Mực Hầm Mật" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/anhvu/022021/10/09/5143_05.jpg?rt=20210210095449",Tập 38
+http://103.27.236.37/phimle/camuchammat2tm38.mp4
