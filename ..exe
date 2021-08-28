@@ -190,8 +190,20 @@ https://asia00.fbcdn.space/rawhls/bC9mYwyR/88qYqQjU-b2.m3u8?v=1629103635
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="https://media.voocdn.com/media/image/id/611274000df938fe3c8bd85d_480x",Đại Dịch Rắn
 https://asia00.fbcdn.space/rawhls/0rxmyQSx/RaMQ5wal-b2.m3u8?v=1628600145
 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="",
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="http://hdvip.net/public/files/flim/120x160/1587401734_kYxNUch.jpg",TÔNG SƯ CÔNG PHU HOẮC NGUYÊN GIÁP
+https://biphim.club/hls/5659fd8fcf4b1d3df9305fd1fe4359f8/playlist.m3u8
 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="http://hdvip.net/public/files/flim/120x160/1572448145_skhrdlc.jpg",THẤT KIẾM HẠ THIÊN SƠN: TU LA NHÃN
+https://biphim.club/hls/dc98a88c6e1a0329e34106a90a8cd1b6/playlist.m3u8
+
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="http://hdvip.net/public/files/flim/120x160/1581323612_0qHw0al.jpg",ĐẠI THẢM HỌA NÚI BAEKDU
+https://biphim.club/hls/cd2a248816d91f047f1e716e6cc0e3a7/playlist.m3u8
+
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="http://hdvip.net/public/files/flim/120x160/1581561162_qPMROkG.jpg",THẤT KIẾM HẠ THIÊN SƠN 2: PHONG THẦN CỐT
+https://biphim.club/hls/37a2deb3ba379bd580c90c1acb112453/playlist.m3u8
+
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="http://hdvip.net/public/files/flim/120x160/1581841717_gEWxOOe.jpg",TRẬN CHIẾN BONGODONG: TIẾNG GẦM CHIẾN THẮNG
+https://biphim.club/hls/b282e4197f57bdeef636edcf4ef24fb5/playlist.m3u8
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="",
 
@@ -624,8 +636,8 @@ https://s3-hcm-r1.longvan.net/phimle/nobitavachukhunglonglacloai.mp4
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.pinimg.com/originals/41/52/5b/41525b0c86e3da639cf2df8be7cd7026.gif",Nobita Và Những Bạn Khủng Long Mới
 http://103.27.236.37/phimle/nobitavanhungbankhunglongmoitm.mp4
 
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Đội Bóng Thiếu Lâm
-http://s3-hcm-r1.longvan.net/phimle/doibongthieulam.mp4
+#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.ytimg.com/vi/S02sHaTMiPA/hqdefault.jpg",Đội Bóng Thiếu Lâm
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
 
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giải Cứu Cây Ước Nguyện
 http://s3-hcm-r1.longvan.net/phimle/giaicuucayuocnguyentm.mp4
@@ -732,8 +744,8 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191114/theviralf
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Diệp Vấn 3
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160310/c724a1c81ec2231aa57bd0ca40306cb0.smil/chunklist_b1998000.m3u8
 
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ngũ Hiệp Trừ Yêu
-https://vod06-cdn.fptplay.net/encoded/20200620/the_thousand_faces_of_dunjia_1080p_sub_logofptplay/1080p/index.m3u8?
+#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="http://hdvip.net/public/files/flim/120x160/1585626885_956anyS.jpg",NGŨ HIỆP TRỪ YÊU 2 Kỳ Môn Độn Giáp (2020)
+https://biphim.club/hls/163c03f436e7af5cdf0b3e893e1ad6db/playlist.m3u8
 
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Điệp Viên Báo Thù
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200629/atomic_blondle_1080p_sub_logofptplay_v6_sub/9074e19102312698be3a601ef324be97.smil/chunklist_b4628000.m3u8
@@ -747,11 +759,11 @@ https://vod01-cdn.fptplay.net/encoded/20200628/act_of_valor_1080p_logofptplay_v3
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Địch Nhân Kiệt-Bí Ẩn Ngọn Lửa Ma
 https://vod06-cdn.fptplay.net/encoded/20200622/detective-dee-2010-1080p-sub-logofptplay-v4/1080p/index.m3u8
 
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Bạch Xà
-https://vod01-cdn.fptplay.net/encoded/20200731/white_snake_2019_china_1080p_sub_v2/1080p/index.m3u8
+#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://traphim.org/wp-content/uploads/2019/11/white-snake.jpg",Bạch Xà: Duyên Khởi
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200727/white_snake_2019_china_1080p_tm_v2_giongbac/e90b63d2e68509729cc487cda700dfe8.smil/chunklist_b4628000.m3u8
 
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Natra Ma Đồng Giáng Thế
-https://vod07-cdn.fptplay.net/encoded/20200729/nezha_2019_china_1080p_sub_v2/1080p/index.m3u8
+#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.ytimg.com/vi/yCJy9roIv8Q/maxresdefault.jpg",Natra Ma Đồng Giáng Thế (Thuyết Minh)
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200729/nezha-2019-china-1080p-tm/69139b65b2b805582e13fbf160ffed07.smil/chunklist_b4628000.m3u8
 
 #EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Phi Vụ Tiền Giả
 https://vod01-cdn.fptplay.net/encoded/20200728/project_gutenberg_2018_china_1080p_sub/1080p/index.m3u8
@@ -2931,3 +2943,5 @@ http://103.27.236.37/phimle/camuchammat2tm37.mp4
 
 #EXTINF:-1 group-title="Cá Mực Hầm Mật" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/anhvu/022021/10/09/5143_05.jpg?rt=20210210095449",Tập 38
 http://103.27.236.37/phimle/camuchammat2tm38.mp4
+
+// hết danh sách phim
