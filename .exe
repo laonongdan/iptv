@@ -215,7 +215,7 @@ https://asia00.fbcdn.space/rawhls/Z5TCBAF7/6jsyKwvu-b2.m3u8?v=1603261748
 https://asia00.fbcdn.space/rawhls/QOj13wZO/AaEVMgb6-b2.m3u8?v=1619146284
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="https://media.voocdn.com/media/image/id/5f52fbf4acc39942398b457d_480x",Hoa Mộc Lan 2020
-https://asia00.fbcdn.space/rawhls/l61OhgXL/kxEfqQvJ-b2.m3u8?v=1602512292
+https://www.googleapis.com/drive/v3/files/1_gbKgJRsTnclmai9AX0_Q_C41-fHS23o?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Hoa Mộc Lan
 https://vod07-cdn.fptplay.net/encoded/20200908/mulan_2009_china_1080p_sub/1080p/index.m3u8
 
@@ -491,7 +491,8 @@ https://biphim.club/hls/f8a64ef81185e9cb3738d689eba23d20/playlist.m3u8
 https://sp.rmbl.ws/s8/2/Q/9/1/_/Q91_b.caa.mp4
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/24/qkyy1y4u_1920x1080loto.jpg",LÔ TÔ 2017
-https://asia01.fbcdn.space/rawhls/MhthHwtzxQuLDw90-b2.m3u8?v=1601003799
+https://www.googleapis.com/drive/v3/files/1_UQ7_quNzkyFWm_Tu66M4RwZq7wXiz86AQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://asia01.fbcdn.space/rawhls/MhthHwtzxQuLDw90-b2.m3u8?v=1601003799
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/02/08/ozf5k7nr_1920x1080-dongmauanhhung_1920_1080.jpg",DÒNG MÁU ANH HÙNG
 https://asia01.fbcdn.space/rawhls/KjOO9QLo/ihdiMwu0-b2.m3u8?v=1601615494
@@ -565,25 +566,66 @@ https://gpsd.vidsugar.xyz/_definst_/smil:mp4/691d01920b4f49c894a497148f2e9422/pl
 #https://gpsd.motphjm.com/_definst_/smil:mp4/691d01920b4f49c894a497148f2e9422/playlist.m3u8?s=vidsugar&v=1629921643
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i0.wp.com/image.motphim.net/poster/hai-phuong-6686.jpg?1558536952",HAI PHƯỢNG Furie (2019)
-https://asia01.fbcdn.space/rawhls/pn3zclmwpppnN8jKGgeR-b2.m3u8?v=1601006723
+https://www.googleapis.com/drive/v3/files/1i-Qm7haGVJtNtgNjASoE6qcVZgP21Svk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://asia01.fbcdn.space/rawhls/pn3zclmwpppnN8jKGgeR-b2.m3u8?v=1601006723
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i0.wp.com/image.motphim.net/poster/vo-ba-6681.jpg?1558436070",VỢ BA
 https://gpsd.vidsugar.xyz/_definst_/smil:mp4/7407e95936c8a67c3a781281cf92833e/playlist.m3u8?s=vidsugar&v=1630012179
 #https://gpsd.motphjm.com/_definst_/smil:mp4/7407e95936c8a67c3a781281cf92833e/playlist.m3u8?s=vidsugar&v=1629923095
 
-#EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i0.wp.com/image.motphim.net/poster/benh-vien-ma-6439.jpg?1552293582",BỆNH VIỆN MA
-https://ch.vidsugar.com/hls/5171363530496a38667430674f4557444d6c4b44634d35355548333747517534494b387947554170587a69333135534f79775074546737617767324153417434/chunklist.m3u8
-
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i0.wp.com/image.motphim.net/poster/trang-quynh-6495.jpg?1555233502",TRẠNG QUỲNH
-https://gpsd.vidsugar.xyz/_definst_/smil:mp4/f174fe630097f40613e134a22b4776cd/playlist.m3u8?s=vidsugar&v=1630005941
+https://www.googleapis.com/drive/v3/files/1YrHziYi8zf8xkncvwFbKLzaOHaiIkxrA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://gpsd.vidsugar.xyz/_definst_/smil:mp4/f174fe630097f40613e134a22b4776cd/playlist.m3u8?s=vidsugar&v=1630005941
 #https://gpsd.motphjm.com/_definst_/smil:mp4/f174fe630097f40613e134a22b4776cd/playlist.m3u8?s=vidsugar&v=1629919364
+
+
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/du_an_moi_3.jpg" group-title="PHIM VIỆT HAY",Tấm Cám: Chuyện chưa kể (2016)
+https://www.googleapis.com/drive/v3/files/1K30tCuQVB5n5rkHey7N2d14Gt2ZqQj-n?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/oppa.jpg" group-title="PHIM VIỆT HAY",Oppa, phiền quá nha! (2019) - Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/15htuMEIEFcc4APSnYCjJ3G5klpILlXtA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/yolo.jpg" group-title="PHIM VIỆT HAY",YOLO - Bạn chỉ sống một lần (2019) - Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/1O9yw6LvfCyVHuphXxmMhdkRJetEZMG7o?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/yeula.jpg" group-title="PHIM VIỆT HAY",Yêu Là Phải Xài Chiêu (2016) - Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/108m8vg5-K_6KdZG85c7_y-N9-h6eSb6e?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/xuong13.jpg" group-title="PHIM VIỆT HAY",Xưởng 13 (2018) - Phim Kinh Dị Việt Nam
+https://www.googleapis.com/drive/v3/files/1aPVdrPH7pQhNhGrxNjKyLINTTdD5g7FH?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/yeudiungsso.jpg" group-title="PHIM VIỆT HAY",Yêu đi đừng sợ (2017) - Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/1rt5eV-rv5RBgH0QwmVbg2w4yNkWoNzBy?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/troisang.jpg" group-title="PHIM VIỆT HAY",Trời sáng rồi ta ngủ đi thôi (2019) - Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/1csU1QRV8kkD3qtr2C1G5FI5jBUtMKdGv?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/phapsumu.jpg" group-title="PHIM VIỆT HAY",Pháp sư mù: Ai chết giơ tay (2019) - Phim Chiếu Rạp Việt Nam Hay Nhất
+https://www.googleapis.com/drive/v3/files/1poIs3Z8QUQYaYcDbJiHB78MOd5joUWjx?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/vuquy.jpg" group-title="PHIM VIỆT HAY",Vu Qui Đại Náo (2019) - Phim Hài Việt Nam
+https://www.googleapis.com/drive/v3/files/1xaCf8gG9bktExaNPb2MsHlyCc6cEfxuT?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/timvochoba.jpg" group-title="PHIM VIỆT HAY",Tìm vợ cho bà (2018) - Bride for Rent (2018) | Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/13aFRj4hEaFpuAKGXq7d-b7q4lhjS1bgZ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/tiktak.jpg" group-title="PHIM VIỆT HAY",Tik Tak, anh yêu em (2016) - Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/1lxwRCs41Ta1iLzNqSoPlbjj_1G8M-rpj?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/thachthao.jpg" group-title="PHIM VIỆT HAY",Thạch Thảo (2018) - Câu chuyện tình học trò đáng yêu của điện ảnh Việt
+https://www.googleapis.com/drive/v3/files/13NeHux1GXUmGlJuoUJF6Vsx9TkRRTr0N?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/ngancan.jpg" group-title="PHIM VIỆT HAY",Sắc Đẹp Ngàn Cân (2017) - Phim Việt Nam Hài Hước Chiếu Rạp
+https://www.googleapis.com/drive/v3/files/1469Zr0fp28cKtQynViwCS0njGOYCgwp1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/nhammat.jpg" group-title="PHIM VIỆT HAY",Nhắm Mắt Thấy Mùa Hè - Summer In Closed Eyes (2018) | Phim Tâm Lý - Tình Cảm Việt Nam
+https://www.googleapis.com/drive/v3/files/1VEg2tF12VjWSxj6biqOA27FgqEvJcQGr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/nguoivoba.jpg" group-title="PHIM VIỆT HAY",Người Vợ Ba - The Third Wife (2018‏) | Phim 18+ Việt Nam
+https://www.googleapis.com/drive/v3/files/1v-LNyRDc2MZRhgzIkUe_57CaPIxlyACr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/battu.jpg" group-title="PHIM VIỆT HAY",Người Bất Tử: Cái Giá Của Sự Bất Tử (2018) | Phim Chiếu Rạp Việt Nam
+https://www.googleapis.com/drive/v3/files/1Cpy0zr8MyfnctoOTCXxtiegR0o8dItqI?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/thatsontalinh.jpg" group-title="PHIM VIỆT HAY",Thất sơn tâm linh (2019) - Phim Kinh Dị Việt Nam
+https://www.googleapis.com/drive/v3/files/19TuTCXOJ_FozcARWkvmLZXamBXCrpza9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i0.wp.com/image.motphim.net/poster/cua-lai-vo-bau-6591.jpg?1556970813",CUA LẠI VỢ BẦU
 https://gpsd.vidsugar.xyz/_definst_/smil:mp4/0edb1e2468b36205b6148cedc5ebd805/playlist.m3u8?s=vidsugar&v=1630006396
 #https://gpsd.motphjm.com/_definst_/smil:mp4/0edb1e2468b36205b6148cedc5ebd805/playlist.m3u8?s=vidsugar&v=1629919653
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i.ytimg.com/vi/tTAWYip5KD4/hqdefault.jpg",GÁI GIÀ LẮM CHIÊU 3
-https://asia01.fbcdn.space/rawhls/pn0NXlbg7i/gQIIHgPL-b2.m3u8?v=1601010609
+https://www.googleapis.com/drive/v3/files/19ZVDu0_vif7JnqQEpn8MFYnDZ7VkAxqe?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="PHIM VIỆT HAY" tvg-logo="https://i0.wp.com/image.motphim.net/poster/huong-ga-6384.jpg?1549345914",HƯƠNG GA 2019
 https://ch.vidsugar.com/hls/6b426c546a446f724f327059614c6a325167417768764569775633696d6a2b746d74547035464253634d4b7850596a4d666b6b4672702f374644766553495442/chunklist.m3u8
@@ -744,22 +786,23 @@ https://asia01.fbcdn.space/rawhls/pnevju8w22/GUhd2gBL-b2.m3u8?v=1626402458
 https://asia00.fbcdn.space/rawhls/j9MOfANv/ZwLgRQnm-b2.m3u8?v=1627022194
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5b26458d0df9389760c09c0a_480x",Captain America 2: Chiến Binh Mùa Đông (2014)
 https://asia00.fbcdn.space/rawhls/Pl64kglM/oBru8giW-b2.m3u8?v=1603249968
-#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://phimvip.tv/uploads/thumbs/2020/05/10/1589124445ssohvp.jpg",Người Nhện 3
-https://asia01.fbcdn.space/rawhls/DdrDeQf0had2ogD7-b2.m3u8?v=1600772731
+#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://phimvip.tv/uploads/thumbs/2020/05/10/1589124445ssohvp.jpg",Người Nhện 3 (2007)
+https://www.googleapis.com/drive/v3/files/1UIPCR_7-8PTPA0hgGnYH3foAE7oZ-Dbu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5ccd95700df938de6a3927b5_480x",Người Nhện 2 (2004)
-https://asia00.fbcdn.space/rawhls/xSZ1SgHD/3vvzXgGX-b2.m3u8?v=1626937800
+https://www.googleapis.com/drive/v3/files/1UcOHtg-wET4NT1DaPcSPyVLz2x-Aqra9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5ccdb3aa0df938e11d3927be_480x",Người Nhện 1 (2002)
-https://asia00.fbcdn.space/rawhls/QCQh0QaZ/4oeUZQ5x-b2.m3u8?v=1603195499
-#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5ccda2770df938d60c3927c5_480x",Người Nhện Siêu Đẳng 1 (2012)
-https://asia00.fbcdn.space/rawhls/OhYsnwjT/1svgtQrH-b2.m3u8?v=1611580288
-#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5ccda78d0df93867253927bd_480x",Người Nhện Siêu Đẳng 2: Sự Trỗi Dậy Của Người Điện
-https://asia00.fbcdn.space/rawhls/rjCCiw4w/Z106ZAvy-b2.m3u8?v=1627024897
+https://www.googleapis.com/drive/v3/files/1a-dMgR4X2qiBT1LEQ_aG6NsVbg4QLRK2?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5ccda2770df938d60c3927c5_480x",Người Nhện Siêu Đẳng 1-Siêu Nhện Tái Xuất (2012)
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6UfvRXA2WC1yOTk4Y0k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5ccda78d0df93867253927bd_480x",Người nhện siêu đẳng 2-Sự trỗi dậy của Người Điện (2014)
+https://www.googleapis.com/drive/v3/files/0BxNJIt0bHRbORjQ0RjFLS1F2cmc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5c86357eacc39960468b4567_480x",Người Nhện: Vũ Trụ Mới
 https://asia00.fbcdn.space/rawhls/9TlIvgr3/neggpQFC-b2.m3u8?v=1603256553
-#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5d79c1000df938112eae24a5_480x",Người Nhện: Xa Nhà
-https://asia00.fbcdn.space/htmls/rawhls/HhM5IwZL/D9TFAQDl-ts/D9TFAQDl.m3u8?v=1599178339
-#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5c56d9770df938ce7fd62c91_480x",Người Nhện: Về Nhà
-http://103.27.236.37/phimle/nguoinhentrovenha.mp4
+#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5d79c1000df938112eae24a5_480x",Người Nhện: Xa Nhà (2019)
+https://www.googleapis.com/drive/v3/files/1l5eSa3XLFka5o3Z5JUsd7IuSbDIVlHbd?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://asia00.fbcdn.space/htmls/rawhls/HhM5IwZL/D9TFAQDl-ts/D9TFAQDl.m3u8?v=1599178339
+#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5c56d9770df938ce7fd62c91_480x",Người Nhện: Về Nhà (2017)
+https://www.googleapis.com/drive/v3/files/1xGckGDNr8ce-Ro71lxmEjBpXsBL-QfU0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5be03e280df938595ebb7e63_480x",Người Nhện: Quái Vật Venom
 https://asia00.fbcdn.space/rawhls/Ee9RgQbZ/sFU3IwGq-b2.m3u8?v=1603255946
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5cce8c100df93867253927c2_480x",Hulk (2003) Người Khổng Lồ Xanh
@@ -769,6 +812,8 @@ https://asia00.fbcdn.space/rawhls/o7gtLg0z/xwehbQap-b2.m3u8?v=1600997080
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5c60c6010df938b52cd62ca4_480x",Người Sắt 2 (2010)
 https://asia00.fbcdn.space/rawhls/Qgff8Qck/y2Rr9ALQ-b2.m3u8?v=1621282436
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5cb48cd3acc399c1018b4598_480x",Người Sắt 3 (2013)
+#EXTINF:-1 tvg-logo="https://media.voocdn.com/media/image/id/5cb48cd3acc399c1018b4598_480x" group-title="SIÊU ANH HÙNG - MARVEL",Người Sắt Sự Nổi Giận Của Technovore
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOMTFBdWFHTmFwUWc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 https://asia00.fbcdn.space/rawhls/lOn6jge4/gjaSiwnU-b2.m3u8?v=1603249584
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5cb80cec0df938df73973b03_480x",Thần Sấm Thor 2011
 https://asia00.fbcdn.space/rawhls/huvJYQ04/pzKuEAjH-b2.m3u8?v=1616047762
@@ -779,11 +824,14 @@ https://asia00.fbcdn.space/rawhls/D5iXpw8E/EfJwKgHr-b2.m3u8?v=1603242074
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5afc379e0df9385437b73b1a_480x",Chiến Binh Báo Đen 2018
 https://asia00.fbcdn.space/rawhls/vsBQKgRn/rv9l4QZl-b2.m3u8?v=1603254156
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5cb56c230df9380473e47577_480x",Người Kiến (2015)
-https://asia00.fbcdn.space/rawhls/ENqwZQ5Bothf3QqR-b2.m3u8?v=1603251003
+https://www.googleapis.com/drive/v3/files/1RMcL22pV0PPIUVqQI6dRNRpFSuGyh-WK?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://asia00.fbcdn.space/rawhls/ENqwZQ5Bothf3QqR-b2.m3u8?v=1603251003
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5bb5e75d0df9383357d438f0_480x",Người Kiến Và Chiến Binh Ong
-https://asia00.fbcdn.space/rawhls/fKCphAwu/CiazqQEJ-b2.m3u8?v=1603255534
-#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5c5638870df9387d60d62c9c_480x",Phù Thủy Tối Thượng
-https://asia00.fbcdn.space/rawhls/OtHvPABJ/5SLLUAAN-b2.m3u8?v=1603252314
+https://www.googleapis.com/drive/v3/files/1IEdoIX2IvKQkdSslDH2Rukxenp7b4j0l?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://asia00.fbcdn.space/rawhls/fKCphAwu/CiazqQEJ-b2.m3u8?v=1603255534
+#EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5c5638870df9387d60d62c9c_480x",Phù Thủy Tối Thượng (2016)
+https://www.googleapis.com/drive/v3/files/1e6pwOHKJiCb4V2HCPq_n41Z52MJke7Oa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#https://asia00.fbcdn.space/rawhls/OtHvPABJ/5SLLUAAN-b2.m3u8?v=1603252314
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5cd025d20df9380c063927be_480x",Vệ Binh Dải Ngân Hà
 https://asia00.fbcdn.space/rawhls/i37tXwK3/T5LGrgye-b2.m3u8?v=1603250246
 #EXTINF:-1 group-title="SIÊU ANH HÙNG - MARVEL" tvg-logo="https://media.voocdn.com/media/image/id/5cd0280d0df938332d3927d5_480x",Vệ Binh Dải Ngân Hà 2
@@ -815,10 +863,31 @@ http://s3-hcm-r1.longvan.net/phimle/quanhanh6.mp4
 http://s3-hcm-r1.longvan.net/phimle/quanhanh7.mp4
 #EXTINF:-1 group-title="The Fast And The Furious" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/poster-qua-nhanh-qua-nguy-hiem-8.jpg",P8 2017
 http://s3-hcm-r1.longvan.net/phimle/quanhanh8.mp4
-#EXTINF:-1 group-title="The Fast And The Furious" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/poster-qua-nhanh-qua-nguy-hiem-9-2019.jpg",P9 2019 Hobbs & Shaw
+#EXTINF:-1 group-title="The Fast And The Furious" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/poster-qua-nhanh-qua-nguy-hiem-9-2019.jpg",2019 Hobbs & Shaw
 https://www1695.ff-04.com/token=8VTuMXheMDfaTsx53o7-6Q/1630270538/2001:ee0::/81/3/02/19537bad8e93ad94642f6c04b5ad8023-480p.mp4
 #EXTINF:-1 group-title="The Fast And The Furious" tvg-logo="https://i0.wp.com/image.motphim.net/poster/qua-nhanh-qua-nguy-hiem-9-huyen-thoai-toc-do-9220.jpg?1627635756",P9: HUYỀN THOẠI TỐC ĐỘ
 https://asia01.fbcdn.space/rawhls/uVrujQqg/JZ7XcQkE-b2.m3u8?v=1629131361
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/zoBgZziFwiNjEZVyqbTtHkJX1I6.jpg" group-title="The Fast And The Furious",Hobbs và Shaw (2019)-Dự phòng
+https://www.googleapis.com/drive/v3/files/1iKHVsaD0eT_hDcg9LcqX06iPPC7_UvXm?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pHEQxKJqIwUzOyZepLko3IuUOy8.jpg" group-title="The Fast And The Furious",P8 (2017)-Dự phòng
+https://www.googleapis.com/drive/v3/files/153odFpaXmDSZKgl_VhR9lg5htF06AEfj?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg" group-title="The Fast And The Furious",P7 (2015)-Dự phòng
+https://www.googleapis.com/drive/v3/files/141B2qU5Qam7plnrosOoOizZ_Cc_3Bi71?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="The Fast And The Furious",P6 (2013)-Dự phòng
+https://www.googleapis.com/drive/v3/files/1q1vJ53NbIGVZRqeE71Wkv2U2P5ELyUXX?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7F6MH7NDhMU3x3RQtPqXEjN2qg0.jpg" group-title="The Fast And The Furious",P5: Phi Vụ Rio (2011)-Dự phòng
+https://www.googleapis.com/drive/v3/files/1rBJBtzDrFct9hEoRi-u9dCopn-PQ25t-?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="The Fast And The Furious",P4 (2009)-Dự phòng
+https://www.googleapis.com/drive/v3/files/1XAVN5eMshGWQLCKHrlSGFGINDHmF0H_2?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/g5pxxYlRJU7bG6ijgDbewXonmSY.jpg" group-title="The Fast And The Furious",P3 : Đường Đua Tokyo (2006)-Dự phòng
+https://www.googleapis.com/drive/v3/files/1aOtZ6yrvs1VL3DGEJSJSeOLYJ2gOqBGJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osgUUpwst1TEaSDTBrrTE6KuCbW.jpg" group-title="The Fast And The Furious",P2 (2003)-Dự phòng
+https://www.googleapis.com/drive/v3/files/1sfZ1Wdx0-gpGkOUelAgjC1ZXkFnGW8m5?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5En3O5t9LG8PfRaNs3vKfMdjQ1B.jpg" group-title="The Fast And The Furious",P1 (2001)-Dự phòng
+
+
+
 
 
 
@@ -847,6 +916,26 @@ https://asia00.fbcdn.space/rawhls/8FOInQyj/nTizvgeu-b2.m3u8?v=1603249049
 #EXTINF:-1 group-title="HARRY POTTER" tvg-logo="https://media.voocdn.com/media/image/id/5cb6bbf50df9389a37d009ba_480x",& Hoàng Tử Lai
 https://asia00.fbcdn.space/rawhls/6kktuwpK/PftMVAVh-b2.m3u8?v=1603248541
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwTT6YJ.jpg" group-title="HARRY POTTER",Harry Potter 7.2: Và Bảo Bối Tử Thần - Dự phòng
+https://www.googleapis.com/drive/v3/files/1aqdmiQLBqGdbBAHKWbDvzoxvJO99c7Rg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO3nQIX.jpg" group-title="HARRY POTTER",Harry Potter 7.1: Và Bảo Bối Tử Thần - Dự phòng
+https://www.googleapis.com/drive/v3/files/1wK53l9LBeQTabvtXVKO95aSRLgXVxmgn?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJ5ucnt.jpg" group-title="HARRY POTTER",Harry Potter 6: Và Hoàng Tử Lai - Dự phòng
+https://www.googleapis.com/drive/v3/files/1H3XKNo7s9VHaVE_jifBopGDaSMYANt3d?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IptCkzQ.jpg" group-title="HARRY POTTER",Harry Potter 5: Và Hội Phượng Hoàng - Dự phòng
+https://www.googleapis.com/drive/v3/files/1elMkzOIlzrYDg-WHeYl7LvpRTd0UJlfE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgBzDIe.jpg" group-title="HARRY POTTER",Harry Potter 4:  Và Chiếc Cốc Lửa - Dự phòng
+https://www.googleapis.com/drive/v3/files/1UxrAy1zNgUwigBvPoIZxhazMCg2bKzAr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwPRKW7.jpg" group-title="HARRY POTTER",Harry Potter 3: Và Tên Tù Nhân Ngục Azkaban - Dự phòng
+https://www.googleapis.com/drive/v3/files/1zXxXMDY6IagGPA9UwEQIk6jbIGq5AT-z?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XnTmcO.jpg" group-title="HARRY POTTER",Harry Potter 2: Và Phòng Chứa Bí Mật - Dự phòng
+https://www.googleapis.com/drive/v3/files/1rntzsktvhSL1MMkA6WPsYtCeCTYYpGbZ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oqMJppm.jpg" group-title="HARRY POTTER",Harry Potter 1: Và Hòn Đá Phù Thủy (2001) - Dự phòng
+https://www.googleapis.com/drive/v3/files/1WZPHM7XyJjmD5B5jBGZt-WKeR-DkiCQ7?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+
+
 
 
 
@@ -861,7 +950,7 @@ https://asia01.fbcdn.space/htmls/rawhls/WlHWLgJ7/uNVGzgTM-ts/uNVGzgTM.m3u8?v=159
 #EXTINF:-1 group-title="TRANSFOMERS" tvg-logo="https://www.studyphim.vn/system/movies/2937/thumbnails/medium/tran1.png",p2. BẠI BINH PHỤC HẬN
 https://asia01.fbcdn.space/rawhls/pnGnVd2AktpnV2YPBw5k-b2.m3u8?v=1600772744
 #EXTINF:-1 group-title="TRANSFOMERS" tvg-logo="https://www.studyphim.vn/system/movies/2937/thumbnails/medium/tran1.png",p3. VÙNG TỐI CỦA MẶT TRĂNG
-https://asia01.fbcdn.space/rawhls/pnuWL51QM4/pnifNTTAUv-b2.m3u8?v=1621145203
+https://www.googleapis.com/drive/v3/files/0B1VOpm7YKvdjR0FCMHRNNFU2ZnM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 #EXTINF:-1 group-title="TRANSFOMERS" tvg-logo="https://www.studyphim.vn/system/movies/2937/thumbnails/medium/tran1.png",HIỆP SĨ CUỐI CÙNG
 https://asia01.fbcdn.space/rawhls/HOGcIQ93/5n0HcQa9-b2.m3u8?v=1601004191
 #EXTINF:-1 group-title="TRANSFOMERS" tvg-logo="https://www.studyphim.vn/system/movies/2937/thumbnails/medium/tran1.png",KỶ NGUYÊN HỦY DIỆT
@@ -896,13 +985,81 @@ https://asia01.fbcdn.space/htmls/rawhls/pn469yPwL0/pnAOxeZg8A-ts/pnAOxeZg8A.m3u8
 #EXTINF:-1 group-title="DỊ NHÂN X-MEN" tvg-logo="https://media.voocdn.com/media/image/id/5fa67004acc399a1a28b458c_480x",Thế Hệ Mới
 https://asia00.fbcdn.space/rawhls/qDsqKwbW/y0so3QtR-b2.m3u8?v=1607203267
 #EXTINF:-1 group-title="DỊ NHÂN X-MEN" tvg-logo="https://media.voocdn.com/media/image/id/5d00b4aa0df938da67e669a0_480x",Phượng Hoàng Bóng Tối
+
 https://asia01.fbcdn.space/rawhls/pntO5eVgnQ/pnUSaCWABP-b2.m3u8?v=1621202581
+#EXTINF:-1 tvg-logo="https://www.elleman.vn/wp-content/uploads/2019/06/05/di-nhan-x-men-feature-elle-man.jpg" group-title="DỊ NHÂN X-MEN",Dị Nhân 1-X-Men-2000-1080p - Dự phòng
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttMmYyd3dTYnpDaEk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://www.elleman.vn/wp-content/uploads/2019/06/05/di-nhan-x-men-feature-elle-man.jpg" group-title="DỊ NHÂN X-MEN",Dị Nhân 2-Liên Minh Dị Nhân-X-Men.X-Men.United-2003-720p - Dự phòng
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttMENRMFdxM0xBczQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://www.elleman.vn/wp-content/uploads/2019/06/05/di-nhan-x-men-feature-elle-man.jpg" group-title="DỊ NHÂN X-MEN",Dị Nhân 3-Phán Xét Cuối Cùng-X-Men_-The Last Stand 200 - Dự phòng
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CWmtOWnFmdVRzQzQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://www.elleman.vn/wp-content/uploads/2019/06/05/di-nhan-x-men-feature-elle-man.jpg" group-title="DỊ NHÂN X-MEN",Dị Nhân 4-Nguồn Gốc Người Sói-X-Men.Origins.Wolverine-2009-Vietsub-720p - Dự phòng
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CdXpFZVZFY1VuaWc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://www.elleman.vn/wp-content/uploads/2019/06/05/di-nhan-x-men-feature-elle-man.jpg" group-title="DỊ NHÂN X-MEN",Dị Nhân 5-Thế Hệ Đầu Tiên - Dự phòng
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CckhVT0I1WldHcEU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://www.elleman.vn/wp-content/uploads/2019/06/05/di-nhan-x-men-feature-elle-man.jpg" group-title="DỊ NHÂN X-MEN",Dị Nhân 6-Ngày Cũ Của Tương Lai-X-Men.Days.of.Future.Past-2014-Vietsub-1080p - Dự phòng
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttVDFEU015RmdCVkk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
 
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/solo.jpg" group-title="Chiến Tranh Các Vì Sao",Solo: Star Wars Ngoại Truyện
+https://www.googleapis.com/drive/v3/files/1KbFanJrt0eL4ek_ugk7WDeMox-i7D-LP?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/rogue.jpg" group-title="Chiến Tranh Các Vì Sao",Rogue One: Star Wars ngoại truyện
+https://www.googleapis.com/drive/v3/files/1PvTnav9NG7MuOdp4dtjDxwYn8UtNcdi-?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star7.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 7: Thần lực thức tỉnh
+https://www.googleapis.com/drive/v3/files/17IKj-SlAb19OwqGPA-3gR3CSypc8BM_A?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star6.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 6: Sự trở lại của Jedi
+https://www.googleapis.com/drive/v3/files/1c80QW70PfX9WpuzrRiB-D7-M-6odmXBg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star5.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 5: Đế chế phản công
+https://www.googleapis.com/drive/v3/files/1L06jbZ5JtwGicL8Q1orHFh6jjuTCCIry?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star4.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 4: Niềm hy vọng mới
+https://www.googleapis.com/drive/v3/files/1LckDcy3qk9TQA34z31Pdwnd4i52EwQGF?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star3.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 3: Sự báo thù của người Sith
+https://www.googleapis.com/drive/v3/files/188LGEM9SDHfCMaAWjpn_M00LtsMAXYPa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star2.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 2: Sự xâm lăng của người Vô tính
+https://www.googleapis.com/drive/v3/files/1DWMSOk_SF6karJAUgb1TMGiBcUCCV4ry?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/star1.jpg" group-title="Chiến Tranh Các Vì Sao",Chiến tranh giữa các vì sao 1: Hiểm họa bóng ma
+https://www.googleapis.com/drive/v3/files/19jKiQVXvhN1xsDoFy7TSVDiEEVL-YL3l?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/kehuy6.jpg" group-title="Kẻ Huỷ Diệt",Kẻ Hủy Diệt 6: Vận Mệnh Đen Tối (2019)
+https://www.googleapis.com/drive/v3/files/1HstLGiEzeS0U_ZVELv-WcasxeifnN3au?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/kehuy5.jpg" group-title="Kẻ Huỷ Diệt",Kẻ Hủy Diệt 5: Thời Đại Genisys (2015)
+https://www.googleapis.com/drive/v3/files/1x-QVUrukqSgTSYKaZn3Dt7XS9LiXWUnt?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/kehuy4.jpg" group-title="Kẻ Huỷ Diệt",Kẻ hủy diệt 4: Sự cứu rỗi (2009)
+https://www.googleapis.com/drive/v3/files/1RlM1qKaQjrECHV6CB05vLO2KghenEm9U?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/kehuy3.jpg" group-title="Kẻ Huỷ Diệt",Kẻ hủy diệt 3: Người máy nổi loạn (2003)
+https://www.googleapis.com/drive/v3/files/1hD4pODIRpYTWUTxsLlhPelle72_x3Khb?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/kehuy2.jpg" group-title="Kẻ Huỷ Diệt",Kẻ hủy diệt 2: Ngày phán xét (1991)
+https://www.googleapis.com/drive/v3/files/1JwoPIJ1JoPmBvR8gMe09RXDBhpWbPUpr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/kehuy1.jpg" group-title="Kẻ Huỷ Diệt",Kẻ hủy diệt 1 (1984)
+https://www.googleapis.com/drive/v3/files/1q7iTtyq0hanVJDlOldHhRNwSJiXvfOcz?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/postermedium.jpg" group-title="LƯỠI CƯA",Lưỡi cưa 1 - Saw (2004)
+https://www.googleapis.com/drive/v3/files/1qqSgEihsvcVVEWVv11EKLbYd0pKSEbWA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/luoicua2.jpg" group-title="LƯỠI CƯA",Lưỡi cưa 2 - Saw II (2005)
+https://www.googleapis.com/drive/v3/files/1S5Ok2Xqb4SssuFEZNTDhI-PYj1xDg6Np?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/lc3.jpg" group-title="LƯỠI CƯA",Lưỡi cưa 3 - Saw III (2006)
+https://www.googleapis.com/drive/v3/files/10zHjmLa17fAZKsFv5kkwWiSYFZC31S6J?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/luoicua4.jpg" group-title="LƯỠI CƯA",Lưỡi Cưa 4 – Saw 4 (2007)
+https://www.googleapis.com/drive/v3/files/1PPwunCZnDqwYpAmRXqZGL73Ezf8-ajoJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/luoicua5.jpg" group-title="LƯỠI CƯA",Lưỡi Cưa 5 - Saw V (2008)
+https://www.googleapis.com/drive/v3/files/1z2nrSauzp0R7dQ7zatqL_kYhmJAw3L3Y?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/luoicua6.jpg" group-title="LƯỠI CƯA",Lưỡi Cưa 6 - Saw VI (2009)
+https://www.googleapis.com/drive/v3/files/1z-jJFhqxeL7kltr0POevY22dGBctqALX?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/luoicua7.jpg" group-title="LƯỠI CƯA",Lưỡi Cưa 7 - Saw 3D: The Final Chapter (2010)
+https://www.googleapis.com/drive/v3/files/1uCE6ifxfrkqUOKY8zN6NMgyXx1jfYTzx?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/luoicua8.jpg" group-title="LƯỠI CƯA",Lưỡi Cưa 8 - Saw: Legacy (2017)
+https://www.googleapis.com/drive/v3/files/1WaSd7GLZLbqZiYjCDA6kQAAPzWHb4t9T?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
 
 
@@ -981,158 +1138,503 @@ https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201231/hoaduong_
 
 
 
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Huyền Thoại Viking
+
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Huyền Thoại Viking
 http://103.27.236.37/phimle/huyenthoaivikingphan6vs1.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Cuộc Giải Cứu Sinh Tử
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Cuộc Giải Cứu Sinh Tử
 http://103.27.236.37/phimle/cuocgiaicuusinhtutm.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giám Sát
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giám Sát
 http://103.27.236.37/phimle/giamsatvs.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Nữ Thần Chiến Binh
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Nữ Thần Chiến Binh
 http://103.27.236.37/phimle/nuthanchienbinh1984tm.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Châu Tinh Trì:Thần Bài 3
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Châu Tinh Trì:Thần Bài 3
 http://103.27.236.37/phimle/thanbai3dothanh.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Châu Tinh Trì:Thần Bài 2
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Châu Tinh Trì:Thần Bài 2
 http://103.27.236.37/phimle/thanbai2dothanh.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Châu Tinh Trì:Thần Bài 1
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Châu Tinh Trì:Thần Bài 1
 http://103.27.236.37/phimle/thanbai1dothanh.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thanh Gươm Diệt Quỷ
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thanh Gươm Diệt Quỷ
 http://103.27.236.37/phimle/thanhguomhuydietchuyentauvotantm-sd.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.pinimg.com/originals/41/52/5b/41525b0c86e3da639cf2df8be7cd7026.gif",Doraemon Chú Khủng Long Lạc Loài
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://i.pinimg.com/originals/41/52/5b/41525b0c86e3da639cf2df8be7cd7026.gif",Doraemon Chú Khủng Long Lạc Loài
 https://s3-hcm-r1.longvan.net/phimle/nobitavachukhunglonglacloai.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.pinimg.com/originals/41/52/5b/41525b0c86e3da639cf2df8be7cd7026.gif",Nobita Và Những Bạn Khủng Long Mới
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://i.pinimg.com/originals/41/52/5b/41525b0c86e3da639cf2df8be7cd7026.gif",Nobita Và Những Bạn Khủng Long Mới
 http://103.27.236.37/phimle/nobitavanhungbankhunglongmoitm.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.ytimg.com/vi/S02sHaTMiPA/hqdefault.jpg",Đội Bóng Thiếu Lâm
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://i.ytimg.com/vi/S02sHaTMiPA/hqdefault.jpg",Đội Bóng Thiếu Lâm
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giải Cứu Cây Ước Nguyện
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giải Cứu Cây Ước Nguyện
 http://s3-hcm-r1.longvan.net/phimle/giaicuucayuocnguyentm.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Cho Em Gần Anh Thêm Chút Nữa
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Cho Em Gần Anh Thêm Chút Nữa
 http://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191213/cho_em_gan_anh_them_chut_nua_1080p_logofptplay_v2/58878dd904e64f39b91cf359905fa9a5_1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Siêu Xạ Thủ
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Siêu Xạ Thủ
 http://s3-hcm-r1.longvan.net/phimle/sieuxathu2009.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Kế Hoạch Đào Tẩu
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Kế Hoạch Đào Tẩu
 http://s3-hcm-r1.longvan.net/phimle/kehoachdaotau2018.mp4
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Chim Ruồi
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Chim Ruồi
 http://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200620/redemption_2013_1080p_sub_logofptplay/9f9f76afe7d6700ffc3159c96a6c6306_1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Sát Nhân Lương Thiện
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Sát Nhân Lương Thiện
 http://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200123/miss-meadow-1080p-sub-logofptplay/41349cf2c587d7e62552bc36f9894622-1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giáng Sinh Nhớ Đời
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Giáng Sinh Nhớ Đời
 http://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201126/better_watch_out_fptplay_1080p_sub_logofptplay/fcc7d063314544f4bf4c10ad0e7e0a2c.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Trí Thủ Uy Hổ Sơn
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Trí Thủ Uy Hổ Sơn
 http://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200620/the-taking-of-tiger-mountain-1080p-sub-logofptplay/64955e26678a6c15baa72f17edc8a12d-1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ngũ Hiệp Trừ Yêu
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ngũ Hiệp Trừ Yêu
 http://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200620/the_thousand_faces_of_dunjia_1080p_sub_logofptplay/62325824f3114ca9147f3d9bbdb98a22_720p_clean.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Yêu Miêu Truyện
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Yêu Miêu Truyện
 http://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200620/legend-of-the-demon-cat-1080p-sub-logofptplay-v2/40a9ea0519d913804ad031399460541a-1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thảm Họa Bão Katrina
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thảm Họa Bão Katrina
 http://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191220/the_hours_1080p_sub_logofptplay_v2/274466293f9b03be505c2a157d6c0352_1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ma Cảnh
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ma Cảnh
 http://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191114/thatdemonwithin_1080p_logofptplay/7ccf80a8e7b4749d35586dd481c8ec51_1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Kích Chiến
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Kích Chiến
 http://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201109/unbeatable_2013_hongkong_v2/b2644f30ec11a52f9523703365a74a73_720p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Huấn Luận Viên Đấu Vật
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Huấn Luận Viên Đấu Vật
 http://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201109/dangal_2016_india_v3/1e4b246d0ac1f41a4c0cef9640a868b4_720p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Kiếm Vũ
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Kiếm Vũ
 http://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20161115/9393752ce40b3d5e977898e1b1d5b318-1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Báo Thù
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Báo Thù
 http://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/ghajini-2008-india-pd/Ghajini_2008_India_PD_sub_vip.smil/chunklist_b1998000_sleng.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Cuộc Chiến Á Phiện
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Cuộc Chiến Á Phiện
 http://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20161128/37570d636f8b53bfa4ad5051f1a5fb0a-1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Vô Ảnh
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Vô Ảnh
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191210/shadow-1080p-sub-logofptplay-v3/9f208119b225d60903c4660d449dcb9d.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thảm Họa Động Đất
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thảm Họa Động Đất
 http://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191221/thequake_1080p_logofptplay/4944206c2330c6ba47e9335d68fa1db2_1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Hải Tặc
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Hải Tặc
 http://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201027/the_pirates_2014_china_sub/c2e0c79beb90bbbdfbea38efda905f06_1080p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Tình Người Duyên Ma
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Tình Người Duyên Ma
 http://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201021/peemakphrakanong_2013_thailand_v2/79cf346f2ef2abe450a28092b231d397_720p.mp4/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Chung Cư Quỷ Ám
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Chung Cư Quỷ Ám
 http://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201023/rigor_mortis_2013_china_pd_sub_720p_v2/7630a715a34bcfd52384d16bafeb5cd1.smil/chunklist_b2828000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Yêu Em Từ Cái Nhìn Đầu Tiên (Điện Ảnh)
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Yêu Em Từ Cái Nhìn Đầu Tiên (Điện Ảnh)
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200909/loveo2o-2016-china-sub/0b0d0a5a92c7394a1e67051071ef0aea.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ngọa Hổ Tàng Long
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Ngọa Hổ Tàng Long
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200813/crouchingtigerhiddendragon-2000-china-1080p/8ffadcc9b940825da2c3abddecf2bc12.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thất Kiếm
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Thất Kiếm
 https://vod05-cdn.fptplay.net/encoded/20200523/sevenswords_2005_chi_mult/1080p/index.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Đại Thoại Tây Du
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Đại Thoại Tây Du
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201003/a_chinese_odyssey_part_ii_china_1994_lt_v2/befaec5672dbca23183955ca437bcf38.smil/chunklist_b2828000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Sát Thủ Đổi Vai
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Sát Thủ Đổi Vai
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200314/luck_key_fptplay_1080p_sub_logofptplay/d8fc7989cc32ca8b988487672dab33e1.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Băng Trộm Siêu Đẳng
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Băng Trộm Siêu Đẳng
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Vụ Cướp Thế Kỷ
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Vụ Cướp Thế Kỷ
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191220/empire_state_vi_1080p_sub_logofptplay_v2/460fcda7428bb3ae890a921eb77c8908.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Đội Cứu Hộ Sinh Tử
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Đội Cứu Hộ Sinh Tử
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191122/life_on_the_line_1080p_logofptplay_v2/4671901df63bc377701fd384af879440.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Truyền Kỳ Địch Nhân Kiệt
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Truyền Kỳ Địch Nhân Kiệt
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191120/the_story_of_renjie_di_s_rebirth_picture_1080p_logofptplay/2431889147c9f269123cf3ec97bd2486.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Địch Nhân Kiệt-Bí Ẩn Ngọn Lửa Ma
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Địch Nhân Kiệt-Bí Ẩn Ngọn Lửa Ma
 https://vod06-cdn.fptplay.net/encoded/20200622/detective-dee-2010-1080p-sub-logofptplay-v4/1080p/index.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Nghịch Chiến
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Nghịch Chiến
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191114/theviralfactor_1080p_logofptplay/aa6b61312414749fa755aba7fef424cc.smil/chunklist_b3992000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="http://hdvip.net/public/files/flim/120x160/1585626885_956anyS.jpg",NGŨ HIỆP TRỪ YÊU 2 Kỳ Môn Độn Giáp (2020)
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="http://hdvip.net/public/files/flim/120x160/1585626885_956anyS.jpg",NGŨ HIỆP TRỪ YÊU 2 Kỳ Môn Độn Giáp (2020)
 https://biphim.club/hls/163c03f436e7af5cdf0b3e893e1ad6db/playlist.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Điệp Viên Báo Thù
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Điệp Viên Báo Thù
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200629/atomic_blondle_1080p_sub_logofptplay_v6_sub/9074e19102312698be3a601ef324be97.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Biệt Kích Ngầm
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Biệt Kích Ngầm
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200629/atomic_blondle_1080p_sub_logofptplay_v6_sub/9074e19102312698be3a601ef324be97.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Chú Mèo Đường Phố
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Chú Mèo Đường Phố
 https://vod01-cdn.fptplay.net/encoded/20200628/act_of_valor_1080p_logofptplay_v3/1080p/index.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://traphim.org/wp-content/uploads/2019/11/white-snake.jpg",Bạch Xà: Duyên Khởi
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://traphim.org/wp-content/uploads/2019/11/white-snake.jpg",Bạch Xà: Duyên Khởi
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200727/white_snake_2019_china_1080p_tm_v2_giongbac/e90b63d2e68509729cc487cda700dfe8.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://i.ytimg.com/vi/yCJy9roIv8Q/maxresdefault.jpg",Natra Ma Đồng Giáng Thế (Thuyết Minh)
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://i.ytimg.com/vi/yCJy9roIv8Q/maxresdefault.jpg",Natra Ma Đồng Giáng Thế (Thuyết Minh)
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200729/nezha-2019-china-1080p-tm/69139b65b2b805582e13fbf160ffed07.smil/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Phi Vụ Tiền Giả
+#EXTINF:-1 group-title="List Phim Lẻ 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Ddlzp3jq_oapi-3sfQ3CPe-ctUegisUAYKAek_WeK1aLGCMLMnmdghfpVqy0rPN060&usq",Phi Vụ Tiền Giả
 https://vod01-cdn.fptplay.net/encoded/20200728/project_gutenberg_2018_china_1080p_sub/1080p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/acmong.jpg" group-title="List Phim Lẻ 2",Ác Mộng Kinh Hoàng (2019)
+https://www.googleapis.com/drive/v3/files/1UJuDk4VF-_qq9m12a85VlNneC8fKGir1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/tinhngaydai.jpg" group-title="List Phim Lẻ 2",Tình Ngây Dại 18+ Hồng Kong
+https://www.googleapis.com/drive/v3/files/184HQTJK-mm--le5Z7rLRbCz6Ux_z8YLA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/haucung.jpg" group-title="List Phim Lẻ 2",Hậu cung (18+ Hàn Quốc)
+https://www.googleapis.com/drive/v3/files/1-mY7Q-kmrMTJly4aYsPP0IeCF_2TnyEt?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/anhsang.jpg" group-title="List Phim Lẻ 2",Ánh Sáng Của Ngọn Lửa (1982) Phim 18+ Mỹ
+https://www.googleapis.com/drive/v3/files/1sacZ1DXERhYHuNA0PLddUMxqolvL7JMr?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/a1/toithich.jpg" group-title="List Phim Lẻ 2",TÔI THÍCH NHỮNG CÔ NÀNG NÓNG BỎNG - Phim Hàn Quốc 18+
+https://www.googleapis.com/drive/v3/files/1gdozwjAoyLgLAH7oj7mp4MnFHO4kLsHc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/a1/doinuquy.jpg" group-title="List Phim Lẻ 2",Đội Nữ Quỷ SS Full HD Việt Sub
+https://www.googleapis.com/drive/v3/files/1-FgSFPa4GrjZwOBQS2zuZfmZJWRR6XWO?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WQAw3Ft.jpg" group-title="List Phim Lẻ 2",Cái Chạm Vô Hình
+https://www.googleapis.com/drive/v3/files/1Fq2MaHuemDVTelW8jm5jDB7K8VcjDfqz?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVopPut.jpg" group-title="List Phim Lẻ 2",Ông Vua Bất Lực 
+https://www.googleapis.com/drive/v3/files/16sYj4qX1rrsGcwbVkThzKtEvmX_GfhZh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeCTflH.jpg" group-title="List Phim Lẻ 2",Bò Cái Cô Đơn - Phim 18+ Nhật Bản
+https://www.googleapis.com/drive/v3/files/1fdpjhP0jcwzoLs-IbL3l_qL83wqrFKsk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/tauthoat.jpg" group-title="List Phim Lẻ 2",Tẩu Thoát
+https://www.googleapis.com/drive/v3/files/1ZkmgQTmH4bbZ4bjNCi7MLmi4zjFLC9vd?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/nguoihung.jpg" group-title="List Phim Lẻ 2",Người Hùng Bất Đắc Dĩ
+https://www.googleapis.com/drive/v3/files/146vHnX6Zgl1jvguXprsNNF_W2MLECNiM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/mynhan1.jpg" group-title="List Phim Lẻ 2",Đặc Nhiệm Mỹ Nhân 1 (2016)
+https://www.googleapis.com/drive/v3/files/1oDJxxvCfjNm3FmO_c36v8GDVTEtj0d7e?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/mynhan2.jpg" group-title="List Phim Lẻ 2",Đặc Nhiệm Mỹ Nhân 2 (2020)
+https://www.googleapis.com/drive/v3/files/1KaH8H-kW8K9GaVmEcg9YP6vldOMOzdhB?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/postermedium.jpg" group-title="List Phim Lẻ 2",Đảo Kinh Hoàng (2020)
+https://www.googleapis.com/drive/v3/files/16d1aPHMQQc6FlZo2SqCtGHSOSsF6rQBl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/0001/giacmo.jpg" group-title="List Phim Lẻ 2",Kẻ Đào Tẩu Giấc Mơ (2020)
+https://www.googleapis.com/drive/v3/files/1HlBvsE69WaAG6tq_SAUXnZB7n-Ef3GFf?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/50sac.jpg" group-title="List Phim Lẻ 2",Năm Mươi Sắc Thái 1 (2015)
+https://www.googleapis.com/drive/v3/files/1-QoE6jx-ayf1b8QB6vF6dP3PVTDES0Jk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/50sac2.jpg" group-title="List Phim Lẻ 2",Năm Mươi Sắc Thái 2:Đen (2017)
+https://www.googleapis.com/drive/v3/files/1gsSIpMHVUDNpz1F1aOrTx7eRgjcmFDDy?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/503.jpg" group-title="List Phim Lẻ 2",Năm Mươi Sắc Thái 3: Tự Do (2018)
+https://www.googleapis.com/drive/v3/files/1BogRI7KuAIopqzfaUa2-BUvmFam3kk6j?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texa1974.jpg" group-title="List Phim Lẻ 2",Tử thần vùng Texas (1974)
+https://www.googleapis.com/drive/v3/files/1J-_zHkVM52kAMEGjV6UDA27gOlUFimX9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texas2003.jpg" group-title="List Phim Lẻ 2",Tử Thần Vùng Texas (2003)
+https://www.googleapis.com/drive/v3/files/1nuocWzrAjkNUpHoY9H28SPfeS6whkhir?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texas2006.jpg" group-title="List Phim Lẻ 2",Tử Thần Vùng Texas (2006): Khởi Đầu Sự Chết Chóc
+https://www.googleapis.com/drive/v3/files/1RsLBcUhGKYt7DKiW6B_MOcTzxZNiKG0Y?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/texas2013.jpg" group-title="List Phim Lẻ 2",Tử Thần Vùng Texas (2013)
+https://www.googleapis.com/drive/v3/files/1nIEkqstPD8proQo-pLZ7msWh339iSLzQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/Chung_Tu_Don/15135007945ac23040d9fbjpgbe996fc8d63cfb2dc2246b3806cfbbef.jpg" group-title="List Phim Lẻ 2",Người Băng I: Băng Phong Hiệp (2014)
+https://www.googleapis.com/drive/v3/files/19rQe1_S_nQKBZRQ-5wtycqWZP-zrdxtK?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/Chung_Tu_Don/iceman2poster4383_84212.jpg" group-title="List Phim Lẻ 2",Người Băng II: Du Hành Thời Gian (2018)
+https://www.googleapis.com/drive/v3/files/1sx5WOGrcR683GPdO_fDDFeMRlQuog2gk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+https://www.googleapis.com/drive/v3/files/1RdzBDDNLv-07qwQSZHYyxtwrAFVGiXuO?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/tihen.jpg" group-title="List Phim Lẻ 2",Tân Thiện Nữ U Hồn: Tình Nhân Gian (2020)
+https://www.googleapis.com/drive/v3/files/1ow08noNtPZFE0DuRi3_FT3neCRp6LyHu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/satthu.jpg" group-title="List Phim Lẻ 2",Sát Thủ Nhân Tạo (2018)
+https://www.googleapis.com/drive/v3/files/18tM1a15Uwn5kWkQDMibDIzA2u8N40vCa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/phivu.jpg" group-title="List Phim Lẻ 2",Phi Vụ Nữ Quyền (2019)
+https://www.googleapis.com/drive/v3/files/12fGIPTKccHN0sv2bo9mb0Pwul6RakD_B?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/phivudaotau.jpg" group-title="List Phim Lẻ 2",Phi Vụ Đào Tẩu (2020)
+https://www.googleapis.com/drive/v3/files/181sSTMo3tJy5Tuku9Jmx51O4aYcwmRvM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vukhi.jpg" group-title="List Phim Lẻ 2",Vũ Khí Bí Mật (2020)
+https://www.googleapis.com/drive/v3/files/1OoiIXKdIhdHsss-0g30k0H-t8-JUNjkV?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vuabocap1.jpg" group-title="List Phim Lẻ 2",Vua bọ cạp (2002)
+https://www.googleapis.com/drive/v3/files/150GPWt5QpwYUs-16dcdZXF5SLagUYZBU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vuabocap2.jpg" group-title="List Phim Lẻ 2",Vua bọ cạp 2 (2008)
+https://www.googleapis.com/drive/v3/files/1RKPD8iyd8AYywe5ruTIEVyZdh7oVrAfG?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vuabocap.jpg" group-title="List Phim Lẻ 2",Vua bọ cạp 3: Trả nợ trận chiến (2011)
+https://www.googleapis.com/drive/v3/files/1xhHb_124UPcYLJOGfGASe1sBNrqSOFY0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/vungdat.jpg" group-title="List Phim Lẻ 2",Vùng Đất Sannikov (1973)
+https://www.googleapis.com/drive/v3/files/1LPeQa3pS_-nHsUceMVG6Wx8dBhA-rmyl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/hosau.jpg" group-title="List Phim Lẻ 2",Hố Sâu Đói Khát (2019)
+https://www.googleapis.com/drive/v3/files/1QUqMIJmfLokkQ8TZU1i5oCoQar57nmUe?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/bongma.jpg" group-title="List Phim Lẻ 2",Bóng Ma: Nhiệm Vụ Đặc Biệt (2016)
+https://www.googleapis.com/drive/v3/files/1B8hd20cWI8YxgCj6n6A5HDoXVIFMMkMt?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/ailakecotoi.jpg" group-title="List Phim Lẻ 2",Ai Là Kẻ Có Tội (2020)
+https://www.googleapis.com/drive/v3/files/14uiICElwhjaFK6tEhFfv9FpH_PDrS5v-?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/001.jpg" group-title="List Phim Lẻ 2",Những Cô Nàng Lạc Lối (2020)
+https://www.googleapis.com/drive/v3/files/1lq6y_Z_anGEBBsS_jUtV7RFeFp1TO7_J?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/chienbinh.jpg" group-title="List Phim Lẻ 2",Chiến Binh Gợi Cảm (2011)
+https://www.googleapis.com/drive/v3/files/1Pk1vPSc3w08F0p73xx4kShc-K76VVvUl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/bebuoi.jpg" group-title="List Phim Lẻ 2",Bé Bự Ơi (2020)
+https://www.googleapis.com/drive/v3/files/1SpZothQ42Yg4TikxVkFvVzO3CakKb2Wu?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/ncbt.jpg" group-title="List Phim Lẻ 2",Người Cá Báo Thù - Mermaid Down (2019)
+https://www.googleapis.com/drive/v3/files/1dFwjundBZw2-wnJ5VyLkQWR1Jt3PUDkp?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/ngtl.jpg" group-title="List Phim Lẻ 2",Người Thủ Lĩnh - Alpha (2018)
+https://www.googleapis.com/drive/v3/files/1xek18A7wKMyjHrktGeplF5-tJ1zlqvn5?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/ntvv.jpg" group-title="List Phim Lẻ 2",Năm tháng vội vã - Fleet of Time (2014)
+https://www.googleapis.com/drive/v3/files/1FoGK7so6m74eztfnkKyadtMfQxkqOGGE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/lolita.jpg" group-title="List Phim Lẻ 2",Nàng Lotita Nước Nga - Lolita (1998)
+https://www.googleapis.com/drive/v3/files/10s7A65dPhp2s9wLXwGe6Wv2eRvT37HoJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/nandoi.jpg" group-title="List Phim Lẻ 2",Nạn Đói Năm 47 - Black '47 (2018)
+https://www.googleapis.com/drive/v3/files/1aWWmEfOFgV5CbdL71f8GZGAa5ehTU0KJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/muahe.jpg" group-title="List Phim Lẻ 2",Mùa hè năm ấy em đi đâu - Cherry Returns (2016)
+https://www.googleapis.com/drive/v3/files/1Xl_BCP4jiTWoIiaHzC9-blq4VFaRnEwV?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/a_hidden_life_2019.jpg" group-title="List Phim Lẻ 2",Một Đời Ẩn Dấu - A Hidden Life (2019)
+https://www.googleapis.com/drive/v3/files/107S4wq2wodHBsTkWh8WKHx5YjnS7SunA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/marc.jpg" group-title="List Phim Lẻ 2",Marc Maron: Cuộc Vui Tận Thế - Marc Maron: End Times Fun (2020)
+https://www.googleapis.com/drive/v3/files/1-MXPe25LLQSmQrRC51hlL4z1Xys9Nseh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/mandem.jpg" group-title="List Phim Lẻ 2",Màn Đêm Buông Xuống - Hard Night Falling (2019)
+https://www.googleapis.com/drive/v3/files/1IJiRySenvIqgucHzGzuNx4Q0JUIZyEZ9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/mat1.jpg" group-title="List Phim Lẻ 2",Ma Trận 1 - The Matrix (1999)
+https://www.googleapis.com/drive/v3/files/1Ih2BloIvhyAhJf-ZkFE0qcKnpLxAT5U6?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/mat2.jpg" group-title="List Phim Lẻ 2",Ma trận 2: Tái lập - The Matrix Reloaded (2003)
+https://www.googleapis.com/drive/v3/files/14vjzpK5BTehaFh59Rgb00JcFM17CuBJ8?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/mat34.jpg" group-title="List Phim Lẻ 2",Ma trận 3: Cuộc cách mạng - The Matrix Revolutions (2003)
+https://www.googleapis.com/drive/v3/files/1KRxhp46u8HC0u4YuCAmImO2hhHorZgw5?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/masoi2.jpg" group-title="List Phim Lẻ 2",Ma sói: Quái vật quanh ta (Tiêu diệt ma sói)
+https://www.googleapis.com/drive/v3/files/1rWJ377tVICMJNYyOQlCQqN4gKCd-C3Zx?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/masoi.jpg" group-title="List Phim Lẻ 2",Ma Sói - The Wolfman (2010)
+https://www.googleapis.com/drive/v3/files/1XMrtGY3QroJUX4X2tKeeyr4ARwZwaadl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/trgmam2.jpg" group-title="List Phim Lẻ 2",Trường Học Ma Ám 2: Ma Nữ Tìm Chồng
+https://www.googleapis.com/drive/v3/files/1YXlQBKK-TitvfvVOOHersF7_OJFebCro?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/sophie.jpg" group-title="List Phim Lẻ 2",Lựa Chọn Của Sophie - Sophie's Choice (1982)
+https://www.googleapis.com/drive/v3/files/1GmFdOKBkZDpIuYzGct1jkoe0UGAES0uQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/loinguyen.jpg" group-title="List Phim Lẻ 2",Lời Nguyền Chết Chóc - The Grudge (2020)
+https://www.googleapis.com/drive/v3/files/1ixg0NTorgAc81MMQZeSbmB_m_cbxYBhs?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/lh.jpg" group-title="List Phim Lẻ 2",Linh Hồn Đổi Xác: Hoạt Hình - Altered Carbon: Resleeved (2020)
+https://www.googleapis.com/drive/v3/files/1s7UrtcTMTVOIe_OXL7xFtlcuYi8Db4-2?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/kong.jpg" group-title="List Phim Lẻ 2",Kong: Đảo Đầu Lâu - Kong: Skull Island (2017)
+https://www.googleapis.com/drive/v3/files/1sBMIOnfvutEPEhTCVokCrtBHNfuMUjSD?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/khongad.jpg" group-title="List Phim Lẻ 2",Không Đầu Hàng - Never Back Down: No Surrender (2016)
+https://www.googleapis.com/drive/v3/files/1vEvAzVUwqIVuyuVCenG-si1CSSxssfrR?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/khongchungbuoc.jpg" group-title="List Phim Lẻ 2",Không chùn bước - Never Back Down (2008)
+https://www.googleapis.com/drive/v3/files/1KjVi7lyLtV-5eLXdAY8pVgnmYnuoDYuT?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/khachsan.jpg" group-title="List Phim Lẻ 2",Khách Sạn Cát Tường - Big Fortune Hotel (2015) | Phim Ma Cương Thi
+https://www.googleapis.com/drive/v3/files/1LFlhCcOvxAM5av2V1nfRAuJ2aOVy0Qgj?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/ik_cqZ-kBsbo8ktBuDNBHB4F59yRsO9Hv8OM3rdxToGl-LiwJNCWbocUoA6qth8=w1200-h630-p" group-title="List Phim Lẻ 2",That_Son_Tam_Linh
+https://www.googleapis.com/drive/v3/files/19TuTCXOJ_FozcARWkvmLZXamBXCrpza9?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/006/yeum.jpg" group-title="List Phim Lẻ 2",Yêu Em Bất Chấp - My Sassy Girl (2018)
+https://www.googleapis.com/drive/v3/files/186AyTK-lYlp4Ozj0zXncW9Kt5Nsn4xJJ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/vica.jpg" group-title="List Phim Lẻ 2",Vi Cá Tiền Truyện (2018) - Quách Ngọc Tiên
+https://www.googleapis.com/drive/v3/files/1ILbNa0XJ9VbGplCMWhDIP4-o2mb7r9eS?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/vaidienoidoi.jpg" group-title="List Phim Lẻ 2",Vai Diễn Đổi Đời: Vai Diễn Định Mệnh (2018)
+https://www.googleapis.com/drive/v3/files/1FVNPGg01FXfHekz6G7UB-MiVX810N71h?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/uochenmuathu.jpg" group-title="List Phim Lẻ 2",Ước Hẹn Mùa Thu: Chuyện Tình Ngọt Ngào Tuổi Học Trò (2019)
+https://www.googleapis.com/drive/v3/files/102E3TLmHiZ0USlNx35TrLDSxzREHgiYh?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8OxhocDKwnG8FSEbs3IJmMQJoOL.jpg" group-title="List Phim Lẻ 2",Găng Tay Đỏ (2016)
+https://www.googleapis.com/drive/v3/files/1WNQHX9A2VkjlK_YA0TZcF-xwMJnPNsVl?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTeneoTRhKx9cKz9b8zJGpzR98o.jpg" group-title="List Phim Lẻ 2",30 Chưa Phải Là Tết
+https://www.googleapis.com/drive/v3/files/16HLyRQOgq3Z3p4UYOkGwL5_dN1H8oDvD?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bMUrGpGzsXIe8hiuJ9Ty3oOczT5.jpg" group-title="List Phim Lẻ 2",Sắc Đẹp Dối Trá (2020)
+https://www.googleapis.com/drive/v3/files/1_Ek8uoVj-2VidryMTVmebR8CvXOg5Th-?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/007/untitled1.png" group-title="List Phim Lẻ 2",Đôi Mắt Âm Dương (2020)
+https://www.googleapis.com/drive/v3/files/17MKKdJeSTWteCcMO1_SKKK8qkXiXNDXa?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/thanhtan/082020/13/12/in_article/3753_3Anh_NgYc_vai_ThuYn_HYYng_2.jpg" group-title="List Phim Lẻ 2",Gái Ngàn Đô (2020)
+https://www.googleapis.com/drive/v3/files/1ASTimMdbSG0QtCxKWzmOAmOJsgRXgs99?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/rucro.jpg" group-title="List Phim Lẻ 2",Tháng Năm Rực Rỡ - Go Go Sisters ( C16) (2018)
+https://www.googleapis.com/drive/v3/files/1dON4QGT-8YsvIhxno7urCedIUMPGKcbf?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/tinhdau.jpg" group-title="List Phim Lẻ 2",Tình Đầu Thơ Ngây - First Love (2019)
+https://www.googleapis.com/drive/v3/files/1SFy97R2BKo_7rbZwKlD1mVsWbK4A0nMq?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/003/nhungcogai.jpg" group-title="List Phim Lẻ 2",Những cô gái & găng-tơ (Girls 2) - Girls vs Gangsters (2018) | Phim Hồng Kông - Việt Nam
+https://www.googleapis.com/drive/v3/files/1qOR7bRVC306doftFO8ZHsDbzI97x8qC_?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/nhan3.jpg" group-title="List Phim Lẻ 2",Chúa tể những chiếc nhẫn 3: Sự trở lại của nhà vua
+https://www.googleapis.com/drive/v3/files/1O89cqAZyvnBhIasnXPnEE2XLpNzkJap0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/004/chuate2.jpg" group-title="List Phim Lẻ 2",Chúa tể những chiếc nhẫn 2: Hai tòa tháp
+https://www.googleapis.com/drive/v3/files/1pAQWKbSMtBQA1Rw2_rjTr98v1NP2gW41?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/001/chua1.jpg" group-title="List Phim Lẻ 2",Chúa tể những chiếc nhẫn 1: Hiệp hội nhẫn thần
+https://www.googleapis.com/drive/v3/files/1wZpLHTKLXFU0AqgtPtxgXY-L4GE0Aswj?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://static.wapmaker.net/5cfafc47fce1810f802a08d0/005/troiday.jpg" group-title="List Phim Lẻ 2",Star Wars: Sự Trỗi Dậy Của Skywalker
+https://www.googleapis.com/drive/v3/files/19jV2j7iu_kbguRmFxr50iAjBxmSqiNI1?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",FESTAS DA SAlSICHAS DUB
+https://www.googleapis.com/drive/v3/files/0B_Vur2MY4_sBSnl5Qi1wQjVfWWc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",CINQUENTAS TONS MAIS ESCUROS DUB
+https://www.googleapis.com/drive/v3/files/0B2k5MsEXqVjUU1pvNFkySGhpM2s?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",(Vietsub)LÀM MẸ
+https://www.googleapis.com/drive/v3/files/0B-rlgB4OXkejM2x2ODBLM1hCR3c?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",(Vietsub)Đắng cay nhưng ngọt ngào (720p)
+https://www.googleapis.com/drive/v3/files/0B03MQTH5UD3ENVI5UWo3R2tKRWc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",(Vietsub)Tranh tài dưới địa ngục
+https://www.googleapis.com/drive/v3/files/0B6gUdcZE38ZSX3dWTHl0Mmh6Zzg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",(Vietsub)KHÁT KHAO CẶN BÃ Tập 1
+https://www.googleapis.com/drive/v3/files/0B6NgGqQrq8ZoUUtpUkJYbEhsRGM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",(Vietsub)GIA ĐÌNH KOUDAI
+https://www.googleapis.com/drive/v3/files/0B6gUdcZE38ZSaktNcTlzZXdncms?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",KST.VN.Love.Rosie.2014.HD
+https://www.googleapis.com/drive/v3/files/0B1CHl_83GqhmcHZRUFdSd1FMYkE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Hachiko A.dog's.story.[2009].Vietsub.LeeJiAh'sHouse&KSTE.HD
+https://www.googleapis.com/drive/v3/files/0B1CHl_83GqhmSFhfOWJLZEtjVDA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",The.blind.side.KSTE
+https://www.googleapis.com/drive/v3/files/0B1CHl_83GqhmSWVYVHBGOEdVLTA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",KST.VN Pitch.Perfect.2012.HD
+https://www.googleapis.com/drive/v3/files/0BylmaLdMXVniY1NlejJxT0dvY3M?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",6 Năm Tình Ái 6 Years 2015
+https://www.googleapis.com/drive/v3/files/0B8Edjr795uffaUZVZkkxUU9oTnc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",12 Vòng Sinh Tử Vietsub
+https://www.googleapis.com/drive/v3/files/0BwjPOkVaGXa4ckZmdWZ5ZG9vU3c?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",9 Rưỡi Tối-The.Visit-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0NlpIVURVeUpkLVk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ác Mộng-Before.I.Wake-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B0e59oRlvnJYaE5HSGtTT2dZQTg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Bài Ca Con Voi-Elephant Song 2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wUGpETFhnV0ZSeDA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Băng Cướp Sòng Bạc-Heist-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrNHhUc1hzeS1nV1E?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Báo Thù-Oldboy-2003-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0e59oRlvnJYUXJ3VEV2bGxiTTA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Bí Ẩn Thế Giới Vô Hình-Mysteries.of.the.Unseen.World
+https://www.googleapis.com/drive/v3/files/0B0e59oRlvnJYYXh2REFYeHVaUGs?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Căn Hầm-10.Cloverfield.Lane-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8-lpE97yRoZLVRCSUIxckJJZDQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cao Thủ Trở Lại-The.Do.Over-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0e59oRlvnJYbFlkdTNPaTF5dlU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cậu Bé Ma-The.Boy-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B2S2Xm4mw3vRZXpfa3dOSFUwWXM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Câu Chuyện Lúc Nửa Đêm-Goosebumps-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrS1NESTNVMXdYVnc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cầu Được Ước Thấy-Absolutely.Anything-2015
+https://www.googleapis.com/drive/v3/files/0BxYXZASd55_7Zy12Y25CeEpXYkE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cô Gái Đan Mạch-The.Danish.Girl-2016-Vietsub-360p
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOQUhGbkRNRTExOUk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cô Nàng Ngớ Ngẩn-Shes.Funny.That.Way-2014-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B4s9FfkD1Bt4bl9fMXlyTUtBY1k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cô Nàng Ngổ Ngáo 2-My New Sassy Girl-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wN3RhZC1ZM2k2QnM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cô Nàng Ngổ Ngáo-My.Sassy.Girl-2001-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8-lpE97yRoZVGtKTU93aU5PUzA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Con Đường Bất Tận-The.Longest.Ride-2015-1080p
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CMXdUMGh4a1JjTzQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cơn Phẫn Nộ-I.Am.Wrath-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B2S2Xm4mw3vRZUV1RTZBQlAzZGc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Công Phu Gấu Trúc 2-Kung.Fu.Panda.2-2011-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BxYXZASd55_7R2stSXZYUllxSGM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Công Viên Kỉ Jura 3-Jurassic Park III 2001
+https://www.googleapis.com/drive/v3/files/0BwjPOkVaGXa4dENoQ1BjSnYzOGM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Công viên kỷ Jura 1-Jurassic Park 1993 HD
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CczJGUjlHeXRpaTg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cuộc Chiến Xe Tăng-Girls and Panzer-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wSTl4dFlYVE8tdkE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cuộc Đua Tử Thần 2-Death.Race.2-2010-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0BwjPOkVaGXa4WUNuSExhV3VwUUk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cuộc Đua Tử Thần 3-Hoa.nguc-Death.Race.3.Inferno-2012-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0BwjPOkVaGXa4MTV6ZnRoTUw3cU0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cuộc Đua-Race-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttakFZalNKblcwZG8?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Cuộc họp ba chiều cho nhà vua-A Hologram for the King-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wV0Z2VF9KMnE0azA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đại Chiến Hai Thế Giới - Warcraft - The Beginning-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8Edjr795uffODRQekl2cXpESDg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đại Chiến Pixels-Pixels-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttcE5IUEh5SkoxbWs?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đại Chiến Titan 1
+https://www.googleapis.com/drive/v3/files/0BwjPOkVaGXa4ZGpXbUFuWWdaZ1k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đại Chiến Titan 2
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrN0dyOW5uR2RzcEk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đại Suy Thoái-The.Big.Short-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B-LlyrvZRGSyVDZLRHczUWRDRWM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đêm Trước Giáng Sinh-The.Night.Before-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B-LlyrvZRGSyZ3hIS083SVBzTU0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Dị Biệt 1- Divergent
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttdkVIU1ZvRzd4T2c?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Dị Biệt 2 Những Kẻ Nổi Loạn-Divergent.2.Insurgent-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttZWlWd2JlakRrSkE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Điềm Báo Kinh Hoàng-Visions-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOVUZoeGV2dUZDTDg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Điệp Viên 007: Bóng Ma Spectre-Bond.24.Spectre-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrWVRtcGdtczQwMHM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Điệp Viên 007-Điệp Vụ Mắt Vàng-Bond.17.GoldenEye-1995-thuyet.minh
+https://www.googleapis.com/drive/v3/files/0B0Vb9f4yxZttVmdab2tZRk9tWVU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Điệp Viên 007-Định Mức Khuây Khỏa - Bond 22_ Quantum Of Solace
+https://www.googleapis.com/drive/v3/files/0BxYXZASd55_7Zk10TG9rcWttc28?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Điệp Vụ Kép-Inside.Men-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8-lpE97yRoZZnVHZmR5XzdZMkU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Đỉnh Everest-Everest-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrakx1andTVHN2Um8?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Dự Án Almanac-Du Hành Quá Khứ-Project.Almanac.Welcome.to.Yesterday-2014-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BxNJIt0bHRbOZG4zUU51eTNLdms?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Giá Treo Từ Thần-The Gallows-2015
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOTmJYQVhLOUdWRnc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Giải Mã Mê Cung 2: Thử Nghiệm Đất Cháy-Maze.Runner.2.The.Scorch.Trials-2015-ThuyetMinh-720p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrbklXczFzOFA3TUU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Giờ Lành-The.Finest.Hours-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BzC9SjMaupWiOTI2R3ZMakZNMGc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Huyền Thoại Riddick-The.Chronicles.of.Riddick-2004-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0BxNJIt0bHRbOVnRtNFkyRkNROFk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Indiana Jones Và Chiếc Rương Thánh Tích-Indiana.Jones.And.The.Raiders.Of.The.Lost.Ark-1981-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B1VOpm7YKvdjWUVXVUctZzZlWDg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Justin Và Hiệp Sĩ Quả Cảm-Justin.and.the.Knights.of.Valour-2013-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B1VOpm7YKvdjX2QtMndVTk9uRHc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Kẻ Đi Săn-The.Chaser-2008-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8-lpE97yRoZejFrYk9IRndobzA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Kẻ lập dị 1-Crank-2006-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wNjdmeGowNkpUR1U?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Khách Sạn Huyền Bí 2-Hotel.Transylvania.2-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrYnMycGNVVDVVWms?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Không Lối Thoát-No.Escape-2015
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CcW44TDduWUw2VWM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Khu Rừng Tự Sát-The.Forest (2016)-Thuyet.minh
+https://www.googleapis.com/drive/v3/files/0B53hTwoKSJ5CQ1diUlhhYlhjX1U?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Kiếm Rồng-Arahan-2004-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B1VOpm7YKvdjQVhNdVNqSHEzY1k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Kiếm Rồng-Dragon.Blade-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B4s9FfkD1Bt4Q2phRHRLeUtMRlE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Định Kiến Và Thây Ma-Pride.and.Prejudice.and.Zombies-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B-LlyrvZRGSyZTN2QV9zcFhrdUE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Kỷ nguyên bạo tàn -Thời đại dân loạn-Kundo.Age.of.the.Rampant-2014-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B1VOpm7YKvdjamY1Z0tjb2pMalk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Lạc Lối Ở Hồng Kông-Lost.3.Lost.in.Hong.Kong-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B-pA6T3AdOxrbmMzcFRnbGsxcTA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Lão Vệ Sĩ-My.Beloved.Bodyguard.2016.1080p.x264.AAC-Vietsub
+https://www.googleapis.com/drive/v3/files/0B-LlyrvZRGSyakZ5akN0SFJWV00?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ma Của Ngày Hôm Qua 3-Truong.hoc.ma.am.3-Make.Me.Shudder.3-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0BxNJIt0bHRbONV9oU3AyRVVkVDA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ma Sói-Howl-2015-ThuyetMinh-720p
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOaWxRM0tfeVdYck0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Mãnh Lực Henry-Hardcore.Henry-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0BzC9SjMaupWiaXB6ai14X3ZaX2s?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Max Điên Cuồng 1-Canh.sat.bao.thu-Mad.Max-1979-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6UfveUxOTzhPbS1TOEE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Max Điên Cuồng 3-Mad.Max.3.Beyond.Thunderdome-1985-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6UfvcWpQR1I5RVVZcEU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Max Điên Cuồng 4-Con Đường Tử Thần
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6Ufvb2xwNUZfckFMODQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Mẹ Tôi Là Rocker-Ricki.and.the.Flash-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0Z3N6eUpsWDlYc2s?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Mèo Mai Mối-Cat.a.Wabb-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6UfvYWp2WHdSTVo0VTg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ngày Độc Lập 2 Tái chiến-Independence Day Resurgence-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wbjRFT29CTkJnUW8?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Người Đàm Phán-Bridge of Spies 2015-Thuyet.minh
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6UfvVEJhZmtCTGp4b1U?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Người Đẹp và Quái Vật-Beauty.and.The.Beast-2014-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B0e59oRlvnJYSkVYRWxJZFU4cVk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Người Dịch Chuyển Thời Gian-Time.Renegades.2016.720P.Vietsub
+https://www.googleapis.com/drive/v3/files/0B2S2Xm4mw3vRblpfdVZYX05RdE0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Người Dơi Sát Thủ Joke-Batman The Killing Joke-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B8HBCEQcq-4wSFJfVzc1bnM0OU0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Người Phụ Nữ Mang Tên Niềm Vui-Joy-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B2S2Xm4mw3vRQk9XZlUtclByVE0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Người Yêu Tôi Là Ai-The.Beauty.Inside-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOTkZjZnNmUW5kM0k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Nhìn từ bầu trời-Chiến dịch Drones-Eye.in.the.Sky-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BzC9SjMaupWiUmR6Z0VSc2N3aFU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Những Chàng Trai Ngoan - The Nice Guys-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8Edjr795uffeVl4d0hlcDNkWmM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Những Chú Chim Giận Dữ-The.Angry.Birds.Movie-2016-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0OTJTa3J0Q3hFMk0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Những Mảnh Ghép Của Nỗi Cô Đơn-Anomalisa-2015-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8-lpE97yRoZa0phOXpOc1ZXM0U?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Nổi Dậy-Risen-2016-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BzC9SjMaupWiVmVGeERUM0JPN2s?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ong Độc-Stung
+https://www.googleapis.com/drive/v3/files/0B0Xo5ZwL6UfvcFJOaTktVk05Wm8?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Quái Vật Không Gian 1-Alien-1979-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B9OYRv7rH2WOSDJtNVFVbHQ1ZkU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Quái Vật Không Gian 3-Alien.3-1992-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BwvB0LvrDFbaQVFhU3FMNXhrQ0E?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Quái Vật Không Gian 4-Alien.4.Resurrection-1997-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BwvB0LvrDFbaemw5QkJfLWhTNEE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Quý Bà Điệp Viên-Spy-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BzrRwmQ7otLZVGVnNTNGb0l5Qm8?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Quỷ Quyệt 3-Insidious.Chapter.3-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BwvB0LvrDFbaQ2xLQnUwWWxyOVU?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ranh Giới Chết - Point Break
+https://www.googleapis.com/drive/v3/files/0B5uVpZgnNncRNE5aWkt6VzR0WE0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Ranh Giới-Sicario-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0RGVaeFJYWGVTR1U?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Sắc Đẹp Vĩnh Cữu-Adaline.bat.tu-The.Age.of.Adaline-2015-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0BwvB0LvrDFbaWG5rdTFaNW1KZk0?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Săn Quỷ 1-Blade-1998-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B4s9FfkD1Bt4SmdwcGxlTFZ5ckE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Săn Quỷ 2-Blade.II-2002-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B4s9FfkD1Bt4eXM4bGJ2SGQ5VDg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Săn Quỷ 3- Blade_ Trinity 2004
+https://www.googleapis.com/drive/v3/files/0B4s9FfkD1Bt4S0E3YTNmS3NXeDQ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Sát Thủ: Mật Danh 47-hitman.agent.47-2015-Thuyet.minh
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0ai01VWhFbld1YjA?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Siêu Cớm Tranh Tài - The Other Guys-2010-Vietsub-720p
+https://www.googleapis.com/drive/v3/files/0B8Edjr795uffRDZEZ1BhX1M1Y28?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Snoopy-The.Peanuts 2015
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0MkVJSHJCVjdwMmc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Sóc Siêu Quậy 2-Alvin.and.the.Chipmunks.2.The.Squeakquel-2009-Thuyet.minh
+https://www.googleapis.com/drive/v3/files/0B5uVpZgnNncRLS1IUGsxWEdwV0k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Sóc Siêu Quậy 3-Alvin.and.the.Chipmunks.3.Chipwrecked-2011-Vietsub-1080p
+https://www.googleapis.com/drive/v3/files/0B9Rja_WI95M0ZDBkVUNnWjg5Nkk?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6432487_preview.png" group-title="List Phim Lẻ 2",Sóc Siêu Quậy 4- Alvin And The Chipmunks_ The Road Chip
+https://www.googleapis.com/drive/v3/files/0BzrRwmQ7otLZNFJnY1lnZDEwdnc?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+
+
+
+
+
+
 
 
 
