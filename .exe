@@ -1,30 +1,3 @@
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/uoXOyNIoP4o/mqdefault.jpg",PHIM KIẾM HIỆP MỚI NHẤT 2020 DIỆP THẦN  Thuyết Minh Tiếng Việt
-plugin://plugin.video.youtube/play/?video_id=uoXOyNIoP4o
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/1ugccItAz2o/mqdefault.jpg",Thanh Kiếm Truyền Kỳ - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh
-plugin://plugin.video.youtube/play/?video_id=1ugccItAz2o
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/dU_7_4UbSxE/mqdefault.jpg",ĐỊA NGỤC HOA CỐC | Phim Lẻ Kiếm Hiệp Mới Nhất 2020 | Thuyết Minh | Phim Mới HD |
-plugin://plugin.video.youtube/play/?video_id=dU_7_4UbSxE
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/qMzeR1DLKf4/mqdefault.jpg",ĐẠI CHIẾN LONG TÍCH | Phim Lẻ Kiếm Hiệp | Thuyết Minh | Phim Mới HD |
-plugin://plugin.video.youtube/play/?video_id=qMzeR1DLKf4
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/H2QDL976uNg/mqdefault.jpg",Phim lẻ hành động võ thuật kiếm hiệp hay nhất 2020 thuyết minh mới nhất
-plugin://plugin.video.youtube/play/?video_id=H2QDL976uNg
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/8e8xQaHjiWg/mqdefault.jpg",VÕ THUẬT KIẾM HIỆP PHIM BỘ MỚI NHẤT 2020
-plugin://plugin.video.youtube/play/?video_id=8e8xQaHjiWg
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/bSkCNleq1Lw/mqdefault.jpg",Phim Lẻ Trung Quốc Mới Nhất 2020 | Phim Hành Động Kiếm Hiệp Hay Nhất - Thuyết Minh
-plugin://plugin.video.youtube/play/?video_id=bSkCNleq1Lw
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/WDELprQCwFc/mqdefault.jpg",Phim Lẻ Trung Quốc Mới Nhất 2020 - Phim Hành Động Kiếm Hiệp Cổ Trang Hay Nhất 2020
-plugin://plugin.video.youtube/play/?video_id=WDELprQCwFc
-#EXTINF:-1 group-title="Test phim youtube" tvg-logo="https://i.ytimg.com/vi/sbr2Le2MHdc/mqdefault.jpg",tiếu đại thần chưởng  2020  Phim Lẻ Kiếm Hiệp Mới Nhất Thuyết Minh
-plugin://plugin.video.youtube/play/?video_id=sbr2Le2MHdc
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Phim VN Kinh điển" tvg-logo="https://kenh14cdn.com/2017/photo-1-1505523150164.jpg",Làng Vũ Đại Ngày Ấy
 https://r1---sn-5go7yne6.googlevideo.com/videoplayback?expire=1630265768&ei=SI0rYfO0Hd3tyQW85YCQCg&ip=46.246.122.42&id=o-AIs_Ym34tyoy96ngWAOBs5gEQTSnoOZYc5-ytfjUGTAp&itag=22&source=youtube&requiressl=yes&mh=Bt&mm=31%2C29&mn=sn-5go7yne6%2Csn-5goeen7r&ms=au%2Crdu&mv=m&mvi=1&pl=23&initcwndbps=1677500&vprv=1&mime=video%2Fmp4&ns=RRiaY9O1yi35eKHAQ9W1gSwG&cnr=14&ratebypass=yes&dur=5410.272&lmt=1610103654664700&mt=1630243967&fvip=1&fexp=24001373%2C24007246&beids=9466588&c=WEB&txp=5535432&n=djF1VEHfC4H0sifS&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgVD211a-_v0uPmFx-iXF8dp95zoV09Q6sO1knCwGH4dkCICXLhNIawFemv0isF7r1UKSujQJftSNyhtx1sEIntUVk&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgPfmx0nLg3f7PaTCJHseHIVAxsfL30ZcVapHOUMS6igcCIQDlxmKW-1Hr8bRO44Kcgdc-Yc0A-4-xzrIKrzER_By5Gw%3D%3D&title=L%C3%A0ng%20V%C5%A9%20%C4%90%E1%BA%A1i%20Ng%C3%A0y%20%E1%BA%A4y%20Full%20%7C%20Phim%20Vi%E1%BB%87t%20Nam%20C%C5%A9%20Hay
