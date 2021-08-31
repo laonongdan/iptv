@@ -1,3 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1692000,RESOLUTION=1024x576
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740
+#http://112.197.12.54/hls/sctv1/sd1/index.m3u8
+#http://vtsstr1.tv24.vn:1935/live/SCTV_HD_Hai_new.smil/playlist.m3u8
+https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114285&authkey=AG2DTwcLRBN2F7A
+
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP" tvg-logo="https://media.voocdn.com/media/image/id/5d9fff830df9383e59f41347_480x",Vua Sư Tử (2019)
 https://asia01.fbcdn.space/rawhls/Pa1NNAzSnEeHVgKX-b2.m3u8?v=1601007984
 
