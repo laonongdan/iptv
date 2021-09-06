@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epg-iptv" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#https://onedrive.live.com/download?cid=7BF74960C037D07F&resid=7BF74960C037D07F%21375002&authkey=AJRiReNJ9g3LyVY
+
+
 #EXTM3U Link kênh một phần nhỏ mình tự làm, còn chủ yếu được sưu tầm từ nhiều nguồn khác nhau, mình chỉ lấy về làm lại cho phù hợp với sử dụng cá nhân! Cảm ơn các nguồn:coocaa,vthanhtivi,github,iptvcat,fptupd,247sport-ht,vnptrtp....
 
 
@@ -72,7 +75,7 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #----Các kênh VTV CAB----
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/K9hhDvq/vtvcab1.png", VTVCab1 | Vie Giải Trí
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/5e6ac6ec99cb5971cdbee4f501c9a260/1630397983629/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
+http://112.197.12.62/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740
 #http://gg.gg/cocaacab1|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 
