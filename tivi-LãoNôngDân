@@ -75,53 +75,53 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #----Các kênh VTV CAB----
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/K9hhDvq/vtvcab1.png", VTVCab1 | Vie Giải Trí
-http://112.197.12.62/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/109539367e5f1147bdaa0cca812f9037/1631622977189/vtvcab/live/hd_vtvcab_1_test/playlist.m3u8
 #http://gg.gg/cocaacab1|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/QM6tx4b/vtvcab4.png",VTVCab4 | Văn Hóa
-http://112.197.12.62/secure/vtvcab4/index.m3u8?md5=VAQDb2DOBBBbwde5jBBfuA&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab4/index.m3u8?md5=VAQDb2DOBBBbwde5jBBfuA&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab4|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab5hd" tvg-logo="https://i.ibb.co/gZPPL1y/vtvcab5.png", VTVCab5 | E Channel
-http://112.197.12.62/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab5|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-logo="https://i.ibb.co/HdR1TK8/vtvcab6.png", VTVcab6 | On Sports
-http://112.197.12.62/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab6|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-logo="https://i.ibb.co/mHghrD0/vtvcab7.png", VTVcab7 | Sức khỏe & Cuộc sống
-http://112.197.12.62/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab7|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab2hd" tvg-logo="https://i.ibb.co/Jq1Bgyb/vtvcab2.png", VTVCab2 | Phim Việt
-http://112.197.12.62/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab2|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab8hd" tvg-logo="https://i.ibb.co/JrfMrBt/vtvcab8.png",VTVCab8 | Bibi TV
-http://112.197.12.62/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab8|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VTV Cab" tvg-id="vtvcab10hd" tvg-logo="https://i.ibb.co/QQfZTCy/vtvcab10.png", VTVCab10 | Film TV
-http://112.197.12.62/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab10|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTV Cab" tvg-logo="https://i.ibb.co/vmwJZFp/vtvcab17.png", VTVcab17 | Yeah1TV
-http://112.197.12.62/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
 #http://gg.gg/cocaacab17|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV Cab" tvg-logo="https://i.ibb.co/19tn1df/vtvcab19.png", VTVcab19 | Vie Dramas
-http://112.197.12.62/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740
-http://gg.gg/cocaacab19|Referer=http://sctvonline.vn/
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
+#http://gg.gg/cocaacab19|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
 
 
