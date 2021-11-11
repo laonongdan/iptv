@@ -8,37 +8,44 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/D8dyrhs/vtv1.png",VTV1 | Tin tức
 #https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+http://125.235.7.71:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=8e6beec3-27f0-4345-83a3-a28e7fa7a1e2&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/fNs9bCD/vtv2.png",VTV2 | Khoa giáo
 #https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+http://27.67.50.85:18080//192_2.m3u8?AdaptiveType=HLS&SessionID=4d200e02-58e9-4606-9db6-5a6c81adc777&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/BfB6xKx/vtv3.png",VTV3 | Giải trí
 #http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+http://125.235.7.74:18080//155_3.m3u8?AdaptiveType=HLS&SessionID=db221f50-2a9d-468b-94e0-75d411fd958b&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/1TTy8Xc/vtv4.png",VTV4 | Hải ngoại
 #https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+http://27.67.50.86:18080//193_2.m3u8?AdaptiveType=HLS&SessionID=73735931-8e25-4cfe-b5f0-fb3f188b5006&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/Kms97x0/vtv5.png",VTV5 | Dân tộc
 #https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+http://125.235.7.93:18080//194_2.m3u8?AdaptiveType=HLS&SessionID=a40bd093-3efb-4b35-a39c-2ac0081ddebc&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/9sgC4NF/vtv6.png",VTV6 | Giới trẻ
 #https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+http://125.235.7.85:18080//156_3.m3u8?AdaptiveType=HLS&SessionID=9445da2c-8bef-48ff-b5de-de65d6c0b17c&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/VNmxvmZ/vtv7.png",VTV7 | Nhi đồng
 #https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+http://27.67.50.134:18080//195_2.m3u8?AdaptiveType=HLS&SessionID=44044b95-8c64-42e6-9d49-ad7dc87dc353&MinBw=0&MaxBw=20000000
 
 
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="https://i.ibb.co/wd0LmW2/lstv.png",Lạng Sơn TV
@@ -50,8 +57,8 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/hxNbHn5/vtv8.png",VTV8 | Cần thơ
 #https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-
+#http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+http://27.67.50.70:18080//196_2.m3u8?AdaptiveType=HLS&SessionID=ca4303c8-f17c-4844-b0a0-eb6a4fb35401&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="antvhd" group-title="CƠ BẢN" tvg-logo="https://i.ibb.co/Yh8VGyp/antv.png",An Ninh TV
 #https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -60,10 +67,10 @@ https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/xm0zJPL/vtv9.png",VTV9 | Hồ Chí Minh
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
-
+http://125.235.7.69:18080//197_2.m3u8?AdaptiveType=HLS&SessionID=1daeb2dd-e9c7-42f9-a7bd-58a67026869c&MinBw=0&MaxBw=20000000
 
 
 
