@@ -7,44 +7,44 @@
 #----CÁC KÊNH VTV | ĐÀI TRUYỀN HÌNH VN----
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/D8dyrhs/vtv1.png",VTV1 | Tin tức
 #https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/fNs9bCD/vtv2.png",VTV2 | Khoa giáo
 #https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/BfB6xKx/vtv3.png",VTV3 | Giải trí
 #http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/1TTy8Xc/vtv4.png",VTV4 | Hải ngoại
 #https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/Kms97x0/vtv5.png",VTV5 | Dân tộc
 #https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/9sgC4NF/vtv6.png",VTV6 | Giới trẻ
 #https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/VNmxvmZ/vtv7.png",VTV7 | Nhi đồng
 #https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 
 
 
@@ -56,8 +56,8 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/hxNbHn5/vtv8.png",VTV8 | Cần thơ
 #https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+#https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="antvhd" group-title="CƠ BẢN" tvg-logo="https://i.ibb.co/Yh8VGyp/antv.png",An Ninh TV
@@ -67,8 +67,8 @@ https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/xm0zJPL/vtv9.png",VTV9 | Hồ Chí Minh
-#http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
-https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+#https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
 
