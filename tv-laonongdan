@@ -1133,20 +1133,20 @@ http://cdn.langsontv.vn/upload/video/file/7691_van_hoa_dan_toc_so_1_2020_1500541
 
 
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV1
-http://125.235.7.70:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=aa714176-b2e1-4783-a04e-92eb438ac4be&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv01/vtv01@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV2
-http://27.67.50.82:18080//192_2.m3u8?AdaptiveType=HLS&SessionID=97105700-7cc4-4354-bbe6-ad8a9269774b&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv02/vtv02@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV3
-http://125.235.7.75:18080//155_3.m3u8?AdaptiveType=HLS&SessionID=bc0c9433-33eb-40e7-9998-7834d125fe70&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv03/vtv03@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV4
-http://27.67.50.81:18080//193_2.m3u8?AdaptiveType=HLS&SessionID=5a8fd437-b61b-4f73-9382-3f9ba055952c&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv04/vtv04@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV5
-http://125.235.7.89:18080//194_2.m3u8?AdaptiveType=HLS&SessionID=0202e37b-b659-4472-87f6-dad9ba5b88cd&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv05/vtv05@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV6
-http://125.235.7.85:18080//156_3.m3u8?AdaptiveType=HLS&SessionID=6e54c1e5-66b5-400b-ab85-9f425d3bf0bf&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv06/vtv06@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV7
-http://27.67.50.134:18080//195_2.m3u8?AdaptiveType=HLS&SessionID=5d9f012a-234e-4448-ac52-57b0ec01351b&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv07/vtv07@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV8
-http://27.67.50.70:18080//196_2.m3u8?AdaptiveType=HLS&SessionID=ae9c986b-76b4-43d3-8e18-9da63674a23f&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv08/vtv08@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV9
-http://125.235.7.69:18080//197_2.m3u8?AdaptiveType=HLS&SessionID=4494598a-12f4-4175-8fd4-fec5d2935631&MinBw=0&MaxBw=20000000
+https://aq6ax61aq.vtvgiaitri.vn/vtv09/vtv09@360p.m3u8
