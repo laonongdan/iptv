@@ -19,18 +19,18 @@
 </channel> 
 
 
-<programme channel="laonongdan" channel-number="1" start="20211127000000 +0700" stop="20911127000000 +0700">
+<programme channel="laonongdan" channel-number="1" start="20211127000000 +0700" stop="22222222222222 +0700">
     <title lang="vi">Xin chào!</title> 
     <desc lang="vi">Rất vui bạn đã sử dụng list phim này</desc> 
 </programme> 
 
 
-<programme channel="huongdansudung" channel-number="2" start="20211127000000 +0700" stop="20911127000000 +0700">
+<programme channel="huongdansudung" channel-number="2" start="20211127000000 +0700" stop="22222222222222 +0700">
     <title lang="vi">Hướng dẫn sử dụng</title> 
     <desc lang="vi">Đọc kỹ hướng dẫn sử dụng trước khi dùng</desc> 
 </programme> 
 
-<programme channel="gg.gg/phimiptv" channel-number="3" start="20211127000000 +0700" stop="20911127000000 +0700">
+<programme channel="gg.gg/phimiptv" channel-number="3" start="20211127000000 +0700" stop="22222222222222 +0700">
     <title lang="vi">PHIM</title> 
     <desc lang="vi">Phim này dài 30 phút.</desc> 
 </programme> 
