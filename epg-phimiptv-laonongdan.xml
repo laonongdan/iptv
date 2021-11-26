@@ -23,41 +23,15 @@
     <title lang="vi">Xin chào!</title> 
     <desc lang="vi">Rất vui bạn đã sử dụng list phim này</desc> 
 </programme> 
-<programme channel="laonongdan" channel-number="1">
-    <title lang="vi">Lão Nông Dân</title> 
-    <desc lang="vi">ố la la, con gà gáy le te le te</desc> 
-</programme> 
-<programme channel="laonongdan" channel-number="1">
-    <title lang="vi">đang phát triển</title> 
-    <desc lang="vi">đang phát triển mục giới thiệu phim</desc> 
-</programme> 
-
-
 
 
 <programme channel="huongdansudung" channel-number="2">
     <title lang="vi">Hướng dẫn sử dụng</title> 
     <desc lang="vi">Đọc kỹ hướng dẫn sử dụng trước khi dùng</desc> 
 </programme> 
-<programme channel="huongdansudung" channel-number="2">
-    <title lang="vi">Hướng dẫn cụ thể</title> 
-    <desc lang="vi">Đọc qua loa hướng dẫn cụ thể, đọc nhiều hoa mắt</desc> 
-</programme> 
-<programme channel="huongdansudung" channel-number="2">
-    <title lang="vi">PHIM Ai-Pi-Ti-Vi</title> 
-    <desc lang="vi">Bạn thích xem phim gì ?</desc> 
-</programme> 
 
 <programme channel="gg.gg/phimiptv" channel-number="3">
     <title lang="vi">PHIM</title> 
-    <desc lang="vi">Phim này dài 30 phút.</desc> 
-</programme> 
-<programme channel="gg.gg/phimiptv" channel-number="3">
-    <title lang="vi">KHÁM PHÁ</title> 
-    <desc lang="vi">Phim này dài 30 phút.</desc> 
-</programme> 
-<programme channel="gg.gg/phimiptv" channel-number="3">
-    <title lang="vi">Ô, lại là phim</title> 
     <desc lang="vi">Phim này dài 30 phút.</desc> 
 </programme> 
 
