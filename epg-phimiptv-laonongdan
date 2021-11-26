@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="27-11-2021" source-info-name="Lão Nông Dân" generator-info-name="Update 01:01:46 - 27/11/2021" source-info-url="https://www.facebook.com/laonongdanls">
+
+
+<channel id="vtv1hd">
+    <display-name lang="vi">VTV1 HD</display-name> 
+    <display-number>1</display-number> 
+    <icon src="http://onetv.click/logo/vtv1hd.jpg"/>
+</channel> 
+<channel id="vtv2hd">
+    <display-name lang="vi">VTV2 HD</display-name> 
+    <display-number>2</display-number> 
+    <icon src="http://onetv.click/logo/vtv2hd.jpg"/>
+</channel> 
+<channel id="vtv3hd">
+    <display-name lang="vi">VTV3 HD</display-name> 
+    <display-number>3</display-number> 
+    <icon src="http://onetv.click/logo/vtv3hd.jpg"/>
+</channel> 
+
+
+<programme channel="vtv1hd" channel-number="1" start="20211127000000 +0700" stop="20211127001500 +0700">
+    <title lang="vi">THỜI SỰ 0H</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc> 
+</programme> 
+<programme channel="vtv1hd" channel-number="1" start="20211127001500 +0700" stop="20211127003000 +0700">
+    <title lang="vi">CHUYỆN NHÀ NÔNG</title> 
+    <desc lang="vi">Chuyển đổi sản xuất hữu cơ, hướng phát triển nông nghiệp bền vững</desc> 
+</programme> 
+<programme channel="vtv1hd" channel-number="1" start="20211127003000 +0700" stop="20211127010000 +0700">
+    <title lang="vi">VĂN HỌC NGHỆ THUẬT</title> 
+    <desc lang="vi">Nơi lưu giữ những đời văn</desc> 
+</programme> 
+
+
+
+
+<programme channel="vtv2hd" channel-number="2" start="20211127000000 +0700" stop="20211127004500 +0700">
+    <title lang="vi">PHIM TRUYỆN</title> 
+    <desc lang="vi">Bán chồng - Tập 6</desc> 
+</programme> 
+<programme channel="vtv2hd" channel-number="2" start="20211127004500 +0700" stop="20211127013000 +0700">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI</title> 
+    <desc lang="vi">Kênh đào Midi</desc> 
+</programme> 
+<programme channel="vtv2hd" channel-number="2" start="20211127013000 +0700" stop="20211127021500 +0700">
+    <title lang="vi">PHIM TRUYỆN</title> 
+    <desc lang="vi">Chu Phỉ - Tập 1</desc> 
+</programme> 
+
+<programme channel="vtv3hd" channel-number="3" start="20211127000000 +0700" stop="20211127005000 +0700">
+    <title lang="vi">PHIM TRUYỆN</title> 
+    <desc lang="vi">Hạnh phúc trong tầm tay - Tập 19</desc> 
+</programme> 
+<programme channel="vtv3hd" channel-number="3" start="20211127005000 +0700" stop="20211127012000 +0700">
+    <title lang="vi">KHÁM PHÁ THẾ GIỚI</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc> 
+</programme> 
+<programme channel="vtv3hd" channel-number="3" start="20211127012000 +0700" stop="20211127021000 +0700">
+    <title lang="vi">5 VÒNG VÀNG KỲ ẢO</title> 
+    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc> 
+</programme> 
+
+</tv>
