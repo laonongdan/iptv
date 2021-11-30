@@ -259,7 +259,7 @@ http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/LCn6gp3/VTV5-TNB.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb"group-title="VTV" tvg-logo="https://i.ibb.co/LCn6gp3/VTV5-TNB.png",VTV5 Tây Nam Bộ
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/fMN6RBz/VTV5-TN.png" ,VTV5 Tây Nguyên
