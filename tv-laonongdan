@@ -505,35 +505,7 @@ https://live.vegacdn.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.ism
 
 
 
-#----K+ Coppy của Trầm Tiến----
-#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+Sports 1 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
-#EXTINF:0 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Kplus_Sport_2_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130347&path-prefix=vi", K+ Sports 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-
-#EXTINF:0 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/250?cb=20211011125856&path-prefix=vi", K+Cine FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-
-#EXTINF:0 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Kplus_Life_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130051&path-prefix=vi", K+Life FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-#----K+ Coppy của Trầm Tiến----
 
 #----CÁC KÊNH ĐỊA PHƯƠNG----
 
@@ -764,66 +736,66 @@ https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 
 
 
-#----CÁC KÊNH TRUNG QUỐC (20 kênh)----
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/kk8z1HS.png", Băc Kinh
-http://39.135.135.64:80/wh7f454c46tw396526073_-531758429/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+#----CÁC KÊNH TRUNG QUỐC (20 kênh)----#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV-1 综合
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nJw9ak6.png", Chiết Giang
-http://39.134.65.5:80/wh7f454c46tw1556997463_-421232541/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV-2 财经
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/GSTV_logo.png" group-title="TRUNG QUỐC", Cam Túc
-http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225846/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV-3 综艺
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Liaoning_Television_Logo.png", Liêu Ninh
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226881/1.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV-4 中文国际
+http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/2JLpv0q.png", Hà Nam
-http://39.134.65.69:80/wh7f454c46tw99893247_1414083234/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV-5 体育
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/rObv7zC.png", Hà Bắc
-http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv5plus" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV-5+ 体育赛事
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/yhUIeUs.jpg", Hà Bắc
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV-6 电影
+http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bbzP8Zv.jpg" group-title="TRUNG QUỐC", Hải Nam
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV-7 国防军事
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/nPffk5l.png", Hắc Long Giang
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV-8 电视剧
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a2/Xiamen_Star_Logo.png", Hạ Môn
-http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctvjilu" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",CCTV-9 纪录
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Jiangsu_Broadcasting_Corporation_Logo.png", Giang Tô
-http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv10" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg",CCTV-10 科教
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png" group-title="TRUNG QUỐC", Ninh Hiệp
-http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225842/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV-11 戏曲
+http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbqStge.jpg" group-title="TRUNG QUỐC", Nội Mông
-http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv12" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg",CCTV-12 社会与法
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/VQOJEVY.jpg", Ðông Nam
-http://39.134.65.77:80/wh7f454c46tw2982035531_-1145786932/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv13" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",CCTV-13 新闻
+http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/oMF7KyK.jpg", Tây Tạng
-http://39.134.65.73:80/wh7f454c46tw4251779860_592847203/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctvchild" tvg-logo="https://www.tvchinese.net/uploads/tv/cctvchild.jpg",CCTV-14 少儿
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png", Tứ Xuyên
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv15" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg",CCTV-15 音乐
+http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png", Thượng hải
-http://39.135.135.22:80/wh7f454c46tw2100802875_-1633439364/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cctv17" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",CCTV-17 农业农村
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://i.imgur.com/cB5Kb9p.png", Thâm Quyến
-http://39.135.135.81:80/wh7f454c46tw3249201142_830105667/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cetv1" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv1.jpg",CETV-1
+http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
 
-#EXTINF:-1 group-title="TRUNG QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/CQTV_2019_logo.png", Trùng Khánh
-http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cetv2" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv2.jpg",CETV-2
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="TRUNG QUỐC", Thiểm Tây
-http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227022/index.m3u8
+#EXTINF:-1 group-title="TRUNG QUỐC" tvg-id="cetv4" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv4.jpg",CETV-4
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
+
 
 
 
@@ -1212,3 +1184,34 @@ https://aq6ax61aq.vtvgiaitri.vn/vtv07/vtv07@360p.m3u8
 https://aq6ax61aq.vtvgiaitri.vn/vtv08/vtv08@360p.m3u8
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/7691_van_hoa_dan_toc_so_1_2020_15005419022020.jpg",Test VTV9
 https://aq6ax61aq.vtvgiaitri.vn/vtv09/vtv09@360p.m3u8
+
+
+#----K+ Coppy của Trầm Tiến----
+#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+Sports 1 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+#EXTINF:0 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Kplus_Sport_2_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130347&path-prefix=vi", K+ Sports 2 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF:0 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/250?cb=20211011125856&path-prefix=vi", K+Cine FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
+#EXTINF:0 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Kplus_Life_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130051&path-prefix=vi", K+Life FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=E75E153E3D0E0F22&Ticket=D5ECF1FEACD78580&bytramtien?
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+#----K+ Coppy của Trầm Tiến----
