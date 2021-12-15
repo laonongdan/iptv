@@ -292,16 +292,15 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV & HTVC" tvg-logo="https://i.imgur.com/A8RNAwQ.png",HTV | Thể Thao
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/HBm1zn7/55.png", HTV CO.OP
+#EXTINF:-1 tvg-id="htvc_coop" group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/HBm1zn7/55.png", HTV CO.OP
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/3sDGdJh/BTV5.png",BTV5
-https://rlink.vn/cocaabtv5|Referer=http://sctvonline.vn/
-#https://sctvonline.vn/page/truyen-hinh-ecb1ec92|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="btv5hd" group-title="HTV & HTVC" tvg-logo="https://i.ibb.co/3sDGdJh/BTV5.png",BTV5
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 
 
 
