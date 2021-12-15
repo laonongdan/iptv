@@ -35,8 +35,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/9sgC4NF/vtv6.png",VTV6 | Giới trẻ
 #https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/VNmxvmZ/vtv7.png",VTV7 | Nhi đồng
