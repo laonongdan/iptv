@@ -478,10 +478,10 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 #http://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 tvg-id="hanoitv1" group-title="SCTV" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1" group-title="SCTV" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hanoitv2" group-title="SCTV" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2" group-title="SCTV" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="SCTV" tvg-logo="https://i.imgur.com/7uqtQEM.png",Hanoicab1 | HiTV
