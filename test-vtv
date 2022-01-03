@@ -1,9 +1,9 @@
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV 1
-https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/4c3937df69de2576a7ee808bd6d01941/1640964502990/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
+http://27.67.50.134:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=c361ea06-a2e5-4033-9556-d2dd69d8bb47&MinBw=0&MaxBw=20000000
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV 2
-https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/53abc8f63117243b9e83a0586ee388a9/1640964486584/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
+http://27.67.50.87:18080//192_2.m3u8?AdaptiveType=HLS&SessionID=77d92370-3774-4654-9e03-19fd68e6262a&MinBw=0&MaxBw=20000000
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV 3
-https://hni-vnpt-001-livecdn-vthn-vnd.vieon.vn/13a2c6971980cac8991e09bbf9bec0d3/1640963919082/vtc/live/hd_vtv3_test/TV_HD/hd_vtv3_test_1080p/chunks.m3u8
+http://27.67.50.92:18080//155_3.m3u8?AdaptiveType=HLS&SessionID=fba35a17-d887-42c7-9944-30a42522b400&MinBw=0&MaxBw=20000000
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV 4
 https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/522cff9a1ede625c5e3047402a6079aa/1640964461540/vtc/live/hd_vtv4_test/TV_HD/hd_vtv4_test_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="",VTV 5
@@ -31,14 +31,6 @@ https://hni-vnpt-002-livecdn-vthn-vnd.vieon.vn/d08574736ab9e03ca9974166baa4d299/
 https://oneonlinegamesnow.biz/playlist/61c66fa22a9319d710a36e58/playlist.m3u8
 #EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",pop
 https://vnw-vod-cdn.popsww.com/hn-jUIAeHAVIXiX7v396Qd1kEcWU78/videos/transcoded/doc_co_thien_ha_tap_1-popsapp/index-f3-v1-a1.m3u8
-#EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",pop
-https://vnw-vod-cdn.popsww.com/hn-TbO7lIfOSgDbd8LKDDuhA1ngpWQ/videos/transcoded/doc_co_thien_ha_tap_2-popsapp/index-f3-v1-a1.m3u8
-#EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",ephimoi.net/test
-https://cdn81.awsindstream.com/content/stream/indfilms/The.Matrix.Resurrections.2021.1080p.WEBRip.VNM.DUB.1XBET.mp4|Referer=https://ephimmoi.net/.html
-#EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",ephimoi.net
-https://cdn81.awsindstream.com/content/stream/indfilms/Spider.Man.No.Way.Home.2021.720p.TS.VNM.SUB.1XBET.mp4
-#EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",ma trận
-https://cdn.120.chuyenphiem.com/2021e/the_matrix_reloaded_2003/tmr_2003.m3u8
 #EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",ma trận
 https://cdn.120.chuyenphiem.com/2021e/the_matrix_reloaded_2003/tmr_2003.m3u8?h=58FpDyJEnxzdHz2pJ1N7EA&e=1640953418
 #EXTINF:-1 group-title="thử phim" tvg-logo="https://fptplay.tv/html-v2/images/fpt-play-box-s/fpt-play-logo.png",phim thử nghiệm
