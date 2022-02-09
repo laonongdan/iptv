@@ -1010,6 +1010,21 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #----CA NHẠC | CHƯƠNG TRÌNH NGHỆ THUẬT LẠNG SƠN----
 
 
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/sac_mau_xu_lang_phan_1_15433305022022.jpg",Sắc màu Xứ Lạng - Phần 1
+http://cdn.langsontv.vn/upload/video/file/sac_mau_xu_lang_phan_1_15433305022022.mp4
+
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/sac_mau_xu_lang_phan_1_15433305022022.jpg",Sắc màu Xứ Lạng - Phần 2
+http://cdn.langsontv.vn/upload/video/file/sac_mau_xu_lang_phan_2_15444405022022.mp4
+
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/mung_dang_mung_xuan_09371504012022.jpg",Mừng Đảng mừng Xuân
+http://cdn.langsontv.vn/upload/video/file/mung_dang_mung_xuan_09371604012022.mp4
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/dang_dang_tieng_hat_mua_xuan_15123705022022.jpg",Dâng Đảng tiếng hát Mùa xuân
+http://cdn.langsontv.vn/upload/video/file/dang_dang_tieng_hat_mua_xuan_15123805022022.mp4
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/loi_thuong_xu_lang_15400305022022.jpg",Lời thương Xứ Lạng
+http://cdn.langsontv.vn/upload/video/file/loi_thuong_xu_lang_15400405022022.mp4
+#EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="",
+
+
 #EXTINF:-1 group-title="Lạng Sơn TV" tvg-logo="http://cdn.langsontv.vn/thumb/480x270/upload/video/thumb/ngay_hoi_non_song_2_09023325052021.jpg",Ngày hội non sông 1
 http://cdn.langsontv.vn/upload/video/file/ngay_hoi_non_song_1_10215324052021.mp4
 
