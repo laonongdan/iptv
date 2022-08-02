@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="sctv1hd" type="stream" group-title="SCTV" tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/hwmlzc3olgwv7vm|Referer=http://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/hwmlzc3olgwv7vm?sctv_Lão Nông Dân|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" type="stream" group-title="SCTV" tvg-logo="https://i.ibb.co/cJmDkTP/SCTV2-cc.webp",SCTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
