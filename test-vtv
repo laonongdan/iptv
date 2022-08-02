@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/D8dyrhs/vtv1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 | Tin tức
-https://dl.dropboxusercontent.com/s/wjqxdwszpzrgygj/vtv1.laonongdan
+https://dl.dropboxusercontent.com/s/j93g2umcolm4piu/vtv1.html
 
 ㅤ
 #EXTINF:-1 tvg-id="sctv1hd" type="stream" group-title="SCTV" tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp", SCTV1
